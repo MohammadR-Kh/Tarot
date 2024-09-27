@@ -163,7 +163,7 @@
   {
     "id": 11,
     "name": "Wheel of Fortune (Card 10 in the Major Arcana)",
-    "image":"public/cards/wheel.png",
+    "image":"/cards/wheel.png",
     "uprigth":{
       "keywords": "Fate, cycles, karma, luck, destiny, change.",
       "advice": "Embrace the cycles of life and remain adaptable to change. Trust in the larger patterns and be open to new opportunities.",
@@ -760,7 +760,7 @@
   {
     "id": 50,
     "name": "King of Swords (Card 14 in the Swords)",
-    "image": "public/cards/swo-14.png",
+    "image": "/cards/swo-14.png",
     "uprigth": {
       "keywords": "Authority, intellect, leadership, truth, logic, integrity.",
       "advice": "Lead with clarity and integrity. Use your intellect and knowledge to make informed, fair decisions.",
