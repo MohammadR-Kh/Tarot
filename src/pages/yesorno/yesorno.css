@@ -1,0 +1,35 @@
+.yes-no{
+  margin: 0px 100px;
+  padding-top: 50px;
+  text-align: center;
+}
+.yes-no-head {
+  text-align: center;
+}
+
+.yes-no-head h1 {
+  color: #E0E0E0;
+  font-size: 50px;
+  margin-bottom: 20px;
+  border-bottom: solid 2px #8B0000;
+}
+
+.yes-no-head h2 {
+  color: #C0C0C0;
+  font-size: 30px;
+}
+@media only screen and (max-width: 480px) {
+  .yes-no {
+    margin: 0 10px;
+    padding-top: 20px;
+  }
+
+  .yes-no-head h1 {
+    font-size: 20px;
+  }
+
+  .yes-no-head h2 {
+    font-size: 15px;
+  }
+
+}
