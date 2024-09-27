@@ -3,7 +3,7 @@
   {
     "id": 1,
     "name": "The Fool (Card 0 in the Major Arcana)",
-    "image": "/src/assets/cards/thefool.png",
+    "image": "/public/cards/thefool.png",
     "uprigth":{
       "keywords": "Beginnings, innocence, spontaneity, freedom, adventure.",
       "advice": " Embrace opportunities, be open to new experiences, but be mindful of potential risks. Look before you leap",
@@ -19,7 +19,7 @@
   {
     "id": 2,
     "name": "The Magician (Card 1 in the Major Arcana)",
-    "image":"/src/assets/cards/themagician.png",
+    "image":"/public/cards/themagician.png",
     "uprigth":{
       "keywords": "Manifestation, power, resourcefulness, inspired action, skill.",
       "advice": "Harness your skills and creativity to turn your dreams into reality. Stay focused and take deliberate action",
@@ -35,7 +35,7 @@
   {
     "id": 3,
     "name": "The High Priestess (Card 2 in the Major Arcana)",
-    "image":"/src/assets/cards/thehigh.png",
+    "image":"/public/cards/thehigh.png",
     "uprigth":{
       "keywords": "Intuition, hidden knowledge, spirituality, mystery, subconscious mind.",
       "advice": "Trust your inner wisdom and be patient. Seek answers within yourself and embrace the mysteries of life.",
@@ -51,7 +51,7 @@
   {
     "id": 4,
     "name": "The Empress (Card 3 in the Major Arcana)",
-    "image":"/src/assets/cards/theemp.png",
+    "image":"/public/cards/theemp.png",
     "uprigth":{
       "keywords":"Fertility, abundance, nurturing, creativity, beauty.",
       "advice": "Embrace creativity and love. Take time to nurture yourself and others, and let your ideas grow naturally.",
@@ -67,7 +67,7 @@
   {
     "id": 5,
     "name": "The Emperor (Card 4 in the Major Arcana)",
-    "image":"/src/assets/cards/theempror.png",
+    "image":"/public/cards/theempror.png",
     "uprigth":{
       "keywords": "Authority, structure, control, leadership, father figure.",
       "advice": "Embrace leadership and responsibility. Use logic and discipline to achieve your goals and create stability",
@@ -83,7 +83,7 @@
   {
     "id": 6,
     "name": "The Hierophant (Card 5 in the Major Arcana)",
-    "image":"/src/assets/cards/thehei.png",
+    "image":"/public/cards/thehei.png",
     "uprigth":{
       "keywords": "Tradition, spiritual guidance, conformity, institutions, belief systems.",
       "advice": "Follow established systems or traditions for guidance. Seek wisdom from teachers or mentors and respect time-honored practices.",
@@ -99,7 +99,7 @@
   {
     "id": 7,
     "name": "The Lovers (Card 6 in the Major Arcana)",
-    "image":"/src/assets/cards/thelovers.png",
+    "image":"/public/cards/thelovers.png",
     "uprigth":{
       "keywords": "Love, harmony, relationships, choices, alignment of values.",
       "advice": "Embrace love and harmony in your relationships. Make choices that align with your heart and core values.",
@@ -115,7 +115,7 @@
   {
     "id":8,
     "name": "The Chariot (Card 7 in the Major Arcana)",
-    "image":"/src/assets/cards/thechariot.png",
+    "image":"/public/cards/thechariot.png",
     "uprigth":{
       "keywords": "Determination, control, willpower, success, movement.",
       "advice": "Stay focused and determined. Use your willpower and discipline to overcome challenges and reach your goals.",
@@ -131,7 +131,7 @@
   {
     "id":9,
     "name": "Strength (Card 8 in the Major Arcana)",
-    "image":"/src/assets/cards/strength.png",
+    "image":"/public/cards/strength.png",
     "uprigth":{
       "keywords": "Courage, inner strength, compassion, resilience, self-mastery.",
       "advice": "Face challenges with courage and compassion. Trust in your inner strength and have confidence in your abilities.",
@@ -147,7 +147,7 @@
   {
     "id":10,
     "name": "The Hermit (Card 9 in the Major Arcana)",
-    "image":"/src/assets/cards/thehermit.png",
+    "image":"/public/cards/thehermit.png",
     "uprigth":{
       "keywords": "Introspection, solitude, soul-searching, inner guidance, spiritual enlightenment.",
       "advice": "Take time for introspection and seek wisdom from within. Trust your inner guidance and embrace solitude for reflection.",
@@ -163,7 +163,7 @@
   {
     "id": 11,
     "name": "Wheel of Fortune (Card 10 in the Major Arcana)",
-    "image":"src/assets/cards/wheel.png",
+    "image":"public/cards/wheel.png",
     "uprigth":{
       "keywords": "Fate, cycles, karma, luck, destiny, change.",
       "advice": "Embrace the cycles of life and remain adaptable to change. Trust in the larger patterns and be open to new opportunities.",
@@ -179,7 +179,7 @@
   {
     "id":12,
     "name": "Justice (Card 11 in the Major Arcana)",
-    "image":"/src/assets/cards/justice.png",
+    "image":"/public/cards/justice.png",
     "uprigth":{
       "keywords": "Fairness, truth, justice, law, accountability, balance.",
       "advice": "Act with integrity and make decisions based on fairness and truth. Take responsibility for your actions and ensure balance in your life.",
@@ -195,7 +195,7 @@
   {
     "id": 13,
     "name": "The Hanged Man (Card 12 in the Major Arcana)",
-    "image":"/src/assets/cards/thehanged.png",
+    "image":"/public/cards/thehanged.png",
     "uprigth":{
       "keywords": "Surrender, letting go, new perspectives, pause, reflection.",
       "advice": "Let go of control and allow things to unfold naturally. Take time to reflect and gain new insights from a different perspective.",
@@ -211,7 +211,7 @@
   {
     "id": 14,
     "name": "Death (Card 13 in the Major Arcana)",
-    "image":"/src/assets/cards/death.png",
+    "image":"/public/cards/death.png",
     "uprigth":{
       "keywords": "Endings, transformation, change, renewal, rebirth.",
       "advice": "Embrace endings and allow transformation to occur. Trust that change will lead to growth and new opportunities.",
@@ -227,7 +227,7 @@
   {
     "id": 15,
     "name": "Temperance (Card 14 in the Major Arcana)",
-    "image":"/src/assets/cards/temperance.png",
+    "image":"/public/cards/temperance.png",
     "uprigth":{
       "keywords": "Balance, harmony, moderation, patience, blending.",
       "advice": "Seek balance and harmony in all aspects of your life. Be patient and take a moderate approach to challenges and decisions.",
@@ -243,7 +243,7 @@
   {
     "id": 16,
     "name": "The Devil (Card 15 in the Major Arcana)",
-    "image":"/src/assets/cards/thedevil.png",
+    "image":"/public/cards/thedevil.png",
     "uprigth":{
       "keywords": "Bondage, addiction, materialism, control, temptation.",
       "advice": "Examine where you might be allowing negative influences or attachments to control your life. Break free from limiting beliefs and behaviors.",
@@ -259,7 +259,7 @@
   {
     "id": 17,
     "name": "The Tower (Card 16 in the Major Arcana)",
-    "image":"/src/assets/cards/thetower.png",
+    "image":"/public/cards/thetower.png",
     "uprigth":{
       "keywords": "Sudden change, upheaval, destruction, liberation, transformation.",
       "advice": "Embrace change and be open to rebuilding your life on more solid foundations. Trust that even in the midst of chaos, growth and liberation are possible.",
@@ -275,7 +275,7 @@
   {
     "id": 18,
     "name": "The Star (Card 17 in the Major Arcana)",
-    "image":"/src/assets/cards/thestar.png",
+    "image":"/public/cards/thestar.png",
     "uprigth":{
       "keywords": "Hope, inspiration, renewal, faith, healing, spiritual guidance.",
       "advice": "Stay hopeful and trust in the future. Allow yourself to heal and find inspiration in the world around you.",
@@ -291,7 +291,7 @@
   {
     "id": 19,
     "name": "The Moon (Card 18 in the Major Arcana)",
-    "image": "/src/assets/cards/themoon.png",
+    "image": "/public/cards/themoon.png",
     "uprigth":{
       "keywords": "Illusion, intuition, uncertainty, subconscious, fears.",
       "advice": "Trust your intuition and explore the deeper aspects of your subconscious. Be mindful of illusions and false perceptions.",
@@ -307,7 +307,7 @@
   {
     "id": 20,
     "name": "The Sun (Card 19 in the Major Arcana)",
-    "image": "/src/assets/cards/thesun.png",
+    "image": "/public/cards/thesun.png",
     "uprigth":{
       "keywords": "Positivity, success, vitality, joy, abundance, clarity.",
       "advice": "Embrace the positive energy of The Sun and move forward with confidence. Trust that success and happiness are within your reach.",
@@ -323,7 +323,7 @@
   {
     "id": 21,
     "name": "Judgement (Card 20 in the Major Arcana)",
-    "image": "/src/assets/cards/judgment.png",
+    "image": "/public/cards/judgment.png",
     "uprigth":{
       "keywords": "Awakening, reflection, reckoning, transformation, renewal.",
       "advice": "Reflect on your past and make decisions based on your higher purpose. Embrace transformation and let go of what no longer serves you.",
@@ -339,7 +339,7 @@
   {
     "id": 22,
     "name": "The World (Card 21 in the Major Arcana)",
-    "image": "/src/assets/cards/thewold.png",
+    "image": "/public/cards/thewold.png",
     "uprigth":{
       "keywords": "Completion, achievement, fulfillment, harmony, travel, expansion.",
       "advice": "Celebrate your achievements and embrace a sense of fulfillment. Be open to new opportunities and adventures as one cycle ends and another begins.",
@@ -355,7 +355,7 @@
   {
     "id": 23,
     "name": "Ace of Pentacles (Card 1 in the Pentacles)",
-    "image": "/src/assets/cards/pen-1.png",
+    "image": "/public/cards/pen-1.png",
     "uprigth":{
       "keywords": "New financial opportunities, prosperity, abundance, stability, manifestation.",
       "advice": "Embrace new opportunities that could lead to material and financial growth. It's a great time to plant seeds for future abundance.",
@@ -370,7 +370,7 @@
   {
     "id": 24,
     "name": "Two of Pentacles (Card 2 in the Pentacles)",
-    "image": "/src/assets/cards/pen-2.png",
+    "image": "/public/cards/pen-2.png",
     "uprigth":{
       "keywords": "Balance, adaptability, multitasking, financial decisions, flexibility.",
       "advice": "Stay adaptable and manage your priorities with care. It’s important to remain balanced as you juggle multiple responsibilities.",
@@ -385,7 +385,7 @@
   {
     "id": 25,
     "name": "Three of Pentacles (Card 3 in the Pentacles)",
-    "image": "/src/assets/cards/pen-3.png",
+    "image": "/public/cards/pen-3.png",
     "uprigth": {
       "keywords": "Collaboration, teamwork, skill development, quality work, recognition.",
       "advice": "Embrace teamwork and seek support from others. The key to success lies in collaboration and leveraging each person's skills.",
@@ -400,7 +400,7 @@
   {
     "id": 26,
     "name": "Four of Pentacles (Card 4 in the Pentacles)",
-    "image": "/src/assets/cards/pen-4.png",
+    "image": "/public/cards/pen-4.png",
     "uprigth": {
       "keywords": "Security, stability, material wealth, conservatism, control.",
       "advice": "It’s time to build a solid foundation for your financial future, but be cautious about holding on too tightly. Balance saving with generosity.",
@@ -415,7 +415,7 @@
   {
     "id": 27,
     "name": "Five of Pentacles (Card 5 in the Pentacles)",
-    "image": "/src/assets/cards/pen-5.png",
+    "image": "/public/cards/pen-5.png",
     "uprigth": {
       "keywords": "Hardship, financial loss, poverty, insecurity, isolation.",
       "advice": "Seek support if you’re going through a challenging time. Remember that this phase will pass, and you don’t have to go through it alone.",
@@ -430,7 +430,7 @@
   {
     "id": 28,
     "name": "Six of Pentacles (Card 6 in the Pentacles)",
-    "image":"/src/assets/cards/pen-6.png",
+    "image":"/public/cards/pen-6.png",
     "uprigth":{
       "keywords": "Generosity, charity, sharing wealth, giving and receiving, balance.",
       "advice": "Be generous if you have the means, but also remain open to receiving help when you need it. Balance is key in the exchange of resources.",
@@ -445,7 +445,7 @@
   {
     "id": 29,
     "name": "Seven of Pentacles (Card 7 in the Pentacles)",
-    "image": "/src/assets/cards/pen-7.png",
+    "image": "/public/cards/pen-7.png",
     "uprigth":{
       "keywords": "Patience, long-term planning, perseverance, investment, reflection.",
       "advice": "Take a step back and evaluate your progress. You’re on the right path, but patience and persistence are needed to see the fruits of your labor.",
@@ -460,7 +460,7 @@
   {
     "id": 30,
     "name": "Eight of Pentacles (Card 8 in the Pentacles)",
-    "image": "/src/assets/cards/pen-8.png",
+    "image": "/public/cards/pen-8.png",
     "uprigth": {
       "keywords": "Diligence, skill development, mastery, hard work, craftsmanship.",
       "advice": "Stay focused on perfecting your skills and putting in the necessary effort. Mastery comes with consistent dedication and attention to detail.",
@@ -475,7 +475,7 @@
   {
     "id": 31,
     "name": "Nine of Pentacles (Card 9 in the Pentacles)",
-    "image": "/src/assets/cards/pen-9.png",
+    "image": "/public/cards/pen-9.png",
     "uprigth": {
       "keywords": "Abundance, luxury, self-sufficiency, independence, success.",
       "advice": "Celebrate your achievements and enjoy the fruits of your labor. You’ve worked hard for your success, and it’s time to appreciate your independence.",
@@ -490,7 +490,7 @@
   {
     "id": 32,
     "name": "Ten of Pentacles (Card 10 in the Pentacles)",
-    "image": "/src/assets/cards/pen-10.png",
+    "image": "/public/cards/pen-10.png",
     "uprigth": {
       "keywords": "Wealth, family, legacy, long-term success, inheritance, security.",
       "advice": "Focus on building a secure and lasting foundation for the future. It’s a time to think about your legacy and the long-term impact of your actions.",
@@ -505,7 +505,7 @@
   {
     "id": 33,
     "name": "Page of Pentacles (Card 11 in the Pentacles)",
-    "image": "/src/assets/cards/pen-11.png",
+    "image": "/public/cards/pen-11.png",
     "uprigth": {
       "keywords": "Opportunity, ambition, new venture, manifestation, study.",
       "advice": "Focus on learning and seizing opportunities for growth. Stay grounded and practical in your approach to new ventures or goals.",
@@ -520,7 +520,7 @@
   {
     "id": 34,
     "name": "Knight of Pentacles (Card 12 in the Pentacles)",
-    "image": "/src/assets/cards/pen-12.png",
+    "image": "/public/cards/pen-12.png",
     "uprigth": {
       "keywords": "Diligence, responsibility, hard work, routine, reliability.",
       "advice": "Stay committed to your work and responsibilities. Slow and steady progress is key to achieving your goals.",
@@ -535,7 +535,7 @@
   {
     "id": 35,
     "name": "Queen of Pentacles (Card 13 in the Pentacles)",
-    "image": "/src/assets/cards/pen-13.png",
+    "image": "/public/cards/pen-13.png",
     "uprigth":{
       "keywords": "Nurturing, practicality, security, abundance, domesticity.",
       "advice": "Take a balanced approach to your responsibilities, focusing on both your career and home life. You have the ability to nurture those around you while building security for yourself.",
@@ -550,7 +550,7 @@
   {
     "id": 36,
     "name": "King of Pentacles (Card 14 in the Pentacles)",
-    "image": "/src/assets/cards/pen-14.png",
+    "image": "/public/cards/pen-14.png",
     "uprigth": {
       "keywords": "Wealth, security, discipline, leadership, success.",
       "advice": "Focus on building long-term security and stability. Your discipline and hard work will lead to material success and leadership.",
@@ -565,7 +565,7 @@
   {
     "id": 37,
     "name": "Ace of Swords (Card 1 in the Swords)",
-    "image": "/src/assets/cards/swo-1.png",
+    "image": "/public/cards/swo-1.png",
     "uprigth": {
       "keywords": "Clarity, breakthrough, new ideas, truth, justice.",
       "advice": "Use your intellect to cut through confusion and find clarity. This is a time for decisive action and honest communication.",
@@ -580,7 +580,7 @@
   {
     "id": 38,
     "name": "Two of Swords (Card 2 in the Swords)",
-    "image": "/src/assets/cards/swo-2.png",
+    "image": "/public/cards/swo-2.png",
     "uprigth": {
       "keywords": "Indecision, stalemate, choices, blocked emotions.",
       "advice": "Trust your intuition to make a difficult decision. Don’t avoid the issue—facing it head-on will bring resolution.",
@@ -595,7 +595,7 @@
   {
     "id": 39,
     "name": "Three of Swords (Card 3 in the Swords)",
-    "image": "/src/assets/cards/swo-3.png",
+    "image": "/public/cards/swo-3.png",
     "uprigth": {
       "keywords": "Heartbreak, sorrow, grief, betrayal, emotional pain.",
       "advice": "Allow yourself to feel the pain, but don’t let it consume you. Healing comes through acknowledgment and release.",
@@ -610,7 +610,7 @@
   {
     "id": 40,
     "name": "Four of Swords (Card 4 in the Swords)",
-    "image": "/src/assets/cards/swo-4.png",
+    "image": "/public/cards/swo-4.png",
     "uprigth": {
       "keywords": "Rest, recovery, solitude, contemplation, healing.",
       "advice": "Take time to rest and recharge. Quiet contemplation will bring clarity and healing.",
@@ -625,7 +625,7 @@
   {
     "id": 41,
     "name": "Five of Swords (Card 5 in the Swords)",
-    "image": "/src/assets/cards/swo-5.png",
+    "image": "/public/cards/swo-5.png",
     "uprigth": {
       "keywords": "Conflict, defeat, dishonor, betrayal, tension.",
       "advice": "Avoid engaging in unnecessary conflicts. Sometimes it’s better to walk away than to win at any cost.",
@@ -640,7 +640,7 @@
   {
     "id": 42,
     "name": "Six of Swords (Card 6 in the Swords)",
-    "image": "/src/assets/cards/swo-6.png",
+    "image": "/public/cards/swo-6.png",
     "uprigth":{
       "keywords": "Transition, moving on, healing, relief, recovery.",
       "advice": "Embrace change and transition. Moving away from difficulties will lead to a more peaceful situation.",
@@ -655,7 +655,7 @@
   {
     "id": 43,
     "name": "Seven of Swords (Card 7 in the Swords)",
-    "image": "/src/assets/cards/swo-7.png",
+    "image": "/public/cards/swo-7.png",
     "uprigth": {
       "keywords": "Deception, betrayal, strategy, sneaky behavior, escape.",
       "advice": "Be cautious and aware of dishonesty or manipulation. Sometimes subtle strategies are needed, but avoid deceit.",
@@ -670,7 +670,7 @@
   {
     "id": 44,
     "name": "Eight of Swords (Card 8 in the Swords)",
-    "image": "/src/assets/cards/swo-8.png",
+    "image": "/public/cards/swo-8.png",
     "uprigth": {
       "keywords": "Restriction, limitation, feeling trapped, self-imposed imprisonment.",
       "advice": "You have the power to free yourself from limitations. Look at the situation from a new perspective to find solutions.",
@@ -685,7 +685,7 @@
   {
     "id": 45,
     "name": "Nine of Swords (Card 9 in the Swords)",
-    "image": "/src/assets/cards/swo-9.png",
+    "image": "/public/cards/swo-9.png",
     "uprigth": {
       "keywords": "Anxiety, worry, fear, nightmares, guilt.",
       "advice": "Acknowledge your fears and anxieties, but don't let them overwhelm you. Seek support and face your worries directly.",
@@ -700,7 +700,7 @@
   {
     "id": 46,
     "name": "Ten of Swords (Card 10 in the Swords)",
-    "image": "/src/assets/cards/swo-10.png",
+    "image": "/public/cards/swo-10.png",
     "uprigth": {
       "keywords": "Betrayal, endings, rock bottom, painful loss, crisis.",
       "advice": "Accept that some situations must come to an end. Release the past, and focus on healing and moving forward.",
@@ -715,7 +715,7 @@
   {
     "id": 47,
     "name": "Page of Swords (Card 11 in the Swords)",
-    "image": "/src/assets/cards/swo-11.png",
+    "image": "/public/cards/swo-11.png",
     "uprigth": {
       "keywords": "Curiosity, intelligence, communication, new ideas, restlessness.",
       "advice": "Be open to learning and gathering new information. Use your intellect to analyze situations and communicate clearly.",
@@ -730,7 +730,7 @@
   {
     "id": 48,
     "name": "Knight of Swords (Card 12 in the Swords)",
-    "image": "/src/assets/cards/swo-12.png",
+    "image": "/public/cards/swo-12.png",
     "uprigth": {
       "keywords": "Ambition, determination, focus, swift action, impulsiveness.",
       "advice": "Move forward with determination and focus, but be mindful of impulsive actions. Think things through before rushing in.",
@@ -745,7 +745,7 @@
   {
     "id": 49,
     "name": "Queen of Swords (Card 13 in the Swords)",
-    "image": "/src/assets/cards/swo-13.png",
+    "image": "/public/cards/swo-13.png",
     "uprigth": {
       "keywords": "Independence, clarity, objectivity, intellect, fairness.",
       "advice": "Approach situations with logic and clarity. Be fair and objective, but also maintain healthy emotional boundaries.",
@@ -760,7 +760,7 @@
   {
     "id": 50,
     "name": "King of Swords (Card 14 in the Swords)",
-    "image": "src/assets/cards/swo-14.png",
+    "image": "public/cards/swo-14.png",
     "uprigth": {
       "keywords": "Authority, intellect, leadership, truth, logic, integrity.",
       "advice": "Lead with clarity and integrity. Use your intellect and knowledge to make informed, fair decisions.",
@@ -775,7 +775,7 @@
   {
     "id": 51,
     "name": "Ace of Cups (Card 1 in the Cups)",
-    "image": "/src/assets/cards/cup-1.png",
+    "image": "/public/cards/cup-1.png",
     "uprigth": {
       "keywords": "New relationships, emotional fulfillment, love, compassion, creativity.",
       "advice": "Embrace new emotional experiences and opportunities for love. Let your heart guide you and express your feelings openly.",
@@ -790,7 +790,7 @@
   {
     "id": 52,
     "name": "Two of Cups (Card 2 in the Cups)",
-    "image": "/src/assets/cards/cup-2.png",
+    "image": "/public/cards/cup-2.png",
     "uprigth": {
       "keywords": "Partnership, mutual attraction, unity, love, harmony.",
       "advice": "Nurture your relationships and work towards deeper connection and harmony. Mutual respect and balance are key.",
@@ -805,7 +805,7 @@
   {
     "id": 53,
     "name": "Three of Cups (Card 3 in the Cups)",
-    "image": "/src/assets/cards/cup-3.png",
+    "image": "/public/cards/cup-3.png",
     "uprigth": {
       "keywords": "Celebration, friendship, community, joy, social gatherings.",
       "advice": "Take time to celebrate with friends and loved ones. Strengthen your connections with those who bring you joy and support.",
@@ -820,7 +820,7 @@
   {
     "id": 54,
     "name": "Four of Cups (Card 4 in the Cups)",
-    "image": "/src/assets/cards/cup-4.png",
+    "image": "/public/cards/cup-4.png",
     "uprigth":{
       "keywords": "Contemplation, apathy, discontent, reevaluation, missed opportunities.",
       "advice": "Take time to reflect on your emotions and current situation. Don’t let apathy or discontent blind you to opportunities.",
@@ -835,7 +835,7 @@
   {
     "id": 55,
     "name": "Five of Cups (Card 5 in the Cups)",
-    "image": "/src/assets/cards/cup-5.png",
+    "image": "/public/cards/cup-5.png",
     "uprigth": {
       "keywords": "Loss, regret, grief, disappointment, focusing on the negative.",
       "advice": "It’s important to acknowledge your feelings of loss or disappointment, but also to focus on what still remains and rebuild from there.",
@@ -850,7 +850,7 @@
   {
     "id": 56,
     "name": "Six of Cups (Card 6 in the Cups)",
-    "image": "/src/assets/cards/cup-6.png",
+    "image": "/public/cards/cup-6.png",
     "uprigth": {
       "keywords": "Nostalgia, childhood memories, innocence, joy, kindness.",
       "advice": "Take time to connect with your past, whether through memories, people, or activities that bring joy and comfort. Embrace innocence and kindness.",
@@ -865,7 +865,7 @@
   {
     "id": 57,
     "name": "Seven of Cups (Card 7 in the Cups)",
-    "image": "/src/assets/cards/cup-7.png",
+    "image": "/public/cards/cup-7.png",
     "uprigth": {
       "keywords": "Choices, illusions, wishful thinking, fantasy, confusion.",
       "advice": "Be mindful of the options presented to you, and take care to discern between fantasy and reality. Focus on what is truly achievable.",
@@ -880,7 +880,7 @@
   {
     "id": 58,
     "name": "Eight of Cups (Card 8 in the Cups)",
-    "image": "/src/assets/cards/cup-8.png",
+    "image": "/public/cards/cup-8.png",
     "uprigth": {
       "keywords": "Walking away, seeking truth, emotional detachment, leaving behind.",
       "advice": "It’s time to leave behind what no longer serves you. Trust your instincts and seek greater emotional or spiritual fulfillment elsewhere.",
@@ -895,7 +895,7 @@
   {
     "id": 59,
     "name": "Nine of Cups (Card 9 in the Cups)",
-    "image": "/src/assets/cards/cup-9.png",
+    "image": "/public/cards/cup-9.png",
     "uprigth":{
       "keywords": "Contentment, satisfaction, emotional fulfillment, wishes come true.",
       "advice": "Enjoy the emotional abundance you’ve achieved. Take pride in your accomplishments and the fulfillment of your desires.",
@@ -910,7 +910,7 @@
   {
     "id": 60,
     "name": "Ten of Cups (Card 10 in the Cups)",
-    "image": "/src/assets/cards/cup-10.png",
+    "image": "/public/cards/cup-10.png",
     "uprigth": {
       "keywords": "Happiness, harmony, emotional fulfillment, family, lasting success.",
       "advice": "Enjoy the emotional harmony in your life, particularly with loved ones. Embrace moments of joy and nurture the positive connections in your relationships.",
@@ -925,7 +925,7 @@
   {
     "id": 61,
     "name": "Page of Cups (Card 11 in the Cups)",
-    "image": "/src/assets/cards/cup-11.png",
+    "image": "/public/cards/cup-11.png",
     "uprigth": {
       "keywords": "Creativity, intuition, emotional openness, new opportunities in love or relationships.",
       "advice": "Follow your heart and be open to new emotional experiences or creative inspirations. Trust your intuition to guide you toward new opportunities.",
@@ -940,7 +940,7 @@
   {
     "id": 62,
     "name": "Knight of Cups (Card 12 in the Cups)",
-    "image": "/src/assets/cards/cup-12.png",
+    "image": "/public/cards/cup-12.png",
     "uprigth": {
       "keywords": "Romance, idealism, charm, pursuit of dreams, emotional action.",
       "advice": "Follow your heart’s desires and pursue your dreams with passion. Let your emotions guide you in matters of love and creativity.",
@@ -955,7 +955,7 @@
   {
     "id": 63,
     "name": "Queen of Cups (Card 13 in the Cups)",
-    "image": "/src/assets/cards/cup-13.png",
+    "image": "/public/cards/cup-13.png",
     "uprigth": {
       "keywords": "Compassion, emotional intelligence, nurturing, empathy, intuition.",
       "advice": "Trust your intuition and lead with compassion in your relationships. Offer emotional support and understanding to those around you.",
@@ -970,7 +970,7 @@
   {
     "id": 64,
     "name": "King of Cups (Card 14 in the Cups)",
-    "image": "/src/assets/cards/cup-14.png",
+    "image": "/public/cards/cup-14.png",
     "uprigth": {
       "keywords": "Emotional balance, leadership, compassion, wisdom, emotional control.",
       "advice": "Lead with emotional wisdom and balance. Use your experience to guide others, and remain calm in emotionally charged situations.",
@@ -985,7 +985,7 @@
   {
     "id": 65,
     "name": "Ace of Wands (Card 1 in the Wands)",
-    "image": "/src/assets/cards/wan-1.png",
+    "image": "/public/cards/wan-1.png",
     "uprigth":{
       "keywords": "Inspiration, new beginnings, potential, growth, creative spark.",
       "advice": "Take advantage of the fresh energy and inspiration around you. Pursue your passions and allow your creativity to flourish.",
@@ -1000,7 +1000,7 @@
   {
     "id": 66,
     "name": "Two of Wands (Card 2 in the Wands)",
-    "image": "/src/assets/cards/wan-2.png",
+    "image": "/public/cards/wan-2.png",
     "uprigth":{
       "keywords": "Planning, progress, decisions, expansion, future vision.",
       "advice": "Focus on long-term planning and make decisions that align with your vision for the future. Take calculated steps toward expansion and growth.",
@@ -1015,7 +1015,7 @@
   {
     "id": 67,
     "name": "Three of Wands (Card 3 in the Wands)",
-    "image": "/src/assets/cards/wan-3.png",
+    "image": "/public/cards/wan-3.png",
     "uprigth": {
       "keywords": "Expansion, foresight, long-term planning, success, adventure.",
       "advice": "Broaden your horizons and look toward future possibilities. Take proactive steps toward your goals and embrace new opportunities.",
@@ -1030,7 +1030,7 @@
   {
     "id": 68,
     "name": "Four of Wands (Card 4 in the Wands)",
-    "image": "/src/assets/cards/wan-4.png",
+    "image": "/public/cards/wan-4.png",
     "uprigth":{
       "keywords": "Celebration, harmony, homecoming, stability, community.",
       "advice": "Enjoy the moment of stability and harmony in your life. Celebrate your achievements and nurture your connections with loved ones.",
@@ -1045,7 +1045,7 @@
   {
     "id": 69,
     "name": "Five of Wands (Card 5 in the Wands)",
-    "image": "/src/assets/cards/wan-5.png",
+    "image": "/public/cards/wan-5.png",
     "uprigth":{
       "keywords": "Conflict, competition, tension, disagreement, struggle.",
       "advice": "Be mindful of how you handle conflict or competition. Focus on finding common ground and resolving disagreements in a constructive manner.",
@@ -1060,7 +1060,7 @@
   {
     "id": 70,
     "name": "Six of Wands (Card 6 in the Wands)",
-    "image": "/src/assets/cards/wan-6.png",
+    "image": "/public/cards/wan-6.png",
     "uprigth":{
       "keywords": "Victory, recognition, success, achievement, confidence.",
       "advice": "Celebrate your victories and achievements, and take pride in the recognition you’ve earned. Use your success to inspire others.",
@@ -1075,7 +1075,7 @@
   {
     "id": 71,
     "name": "Seven of Wands (Card 7 in the Wands)",
-    "image": "/src/assets/cards/wan-7.png",
+    "image": "/public/cards/wan-7.png",
     "uprigth":{
       "keywords": "Perseverance, defense, competition, standing your ground.",
       "advice": "Stand firm in your beliefs and defend your position, even when faced with opposition. Trust in your strength and ability to overcome challenges.",
@@ -1090,7 +1090,7 @@
   {
     "id": 72,
     "name": "Eight of Wands (Card 8 in the Wands)",
-    "image": "/src/assets/cards/wan-8.png",
+    "image": "/public/cards/wan-8.png",
     "uprigth":{
       "keywords": "Speed, progress, movement, communication, rapid change.",
       "advice": "Take swift action toward your goals, as things are moving quickly. Stay focused and communicate clearly to ensure smooth progress.",
@@ -1105,7 +1105,7 @@
   {
     "id": 73,
     "name": "Nine of Wands (Card 9 in the Wands)",
-    "image": "/src/assets/cards/wan-9.png",
+    "image": "/public/cards/wan-9.png",
     "uprigth":{
       "keywords": "Resilience, persistence, endurance, protection, caution.",
       "advice": "Stay strong and keep pushing forward, even if the road is tough. Protect yourself from further harm and be cautious, but don’t give up.",
@@ -1120,7 +1120,7 @@
   {
     "id": 74,
     "name": "Ten of Wands (Card 10 in the Wands)",
-    "image": "/src/assets/cards/wan-10.png",
+    "image": "/public/cards/wan-10.png",
     "uprigth":{
       "keywords": "Burden, responsibility, hard work, stress, overwhelm.",
       "advice": "Be mindful of taking on too much. Delegate tasks where possible, and prioritize your well-being as you work toward your goals.",
@@ -1135,7 +1135,7 @@
   {
     "id": 75,
     "name": "Page of Wands (Card 11 in the Wands)",
-    "image": "/src/assets/cards/wan-11.png",
+    "image": "/public/cards/wan-11.png",
     "uprigth":{
       "keywords": "Enthusiasm, exploration, discovery, inspiration, curiosity.",
       "advice": "Embrace new opportunities with a sense of adventure and curiosity. Trust in your creative instincts and allow your enthusiasm to guide you.",
@@ -1150,7 +1150,7 @@
   {
     "id": 76,
     "name": "Knight of Wands (Card 12 in the Wands)",
-    "image": "/src/assets/cards/wan-12.png",
+    "image": "/public/cards/wan-12.png",
     "uprigth":{
       "keywords": "Action, adventure, energy, passion, impulsiveness.",
       "advice": "Embrace your passion and energy to pursue your goals with confidence. Take action, but be mindful of acting too impulsively without considering the consequences.",
@@ -1165,7 +1165,7 @@
   {
     "id": 77,
     "name": "Queen of Wands (Card 13 in the Wands)",
-    "image": "/src/assets/cards/wan-13.png",
+    "image": "/public/cards/wan-13.png",
     "uprigth":{
       "keywords": "Confidence, determination, independence, charisma, creativity.",
       "advice": "Be bold and confident in expressing yourself and pursuing your goals. Trust in your abilities and embrace your creative potential.",
@@ -1180,7 +1180,7 @@
   {
     "id": 78,
     "name": "King of Wands (Card 14 in the Wands)",
-    "image": "/src/assets/cards/wan-14.png",
+    "image": "/public/cards/wan-14.png",
     "uprigth":{
       "keywords": "Leadership, vision, charisma, entrepreneurship, inspiration.",
       "advice": "Lead with confidence and vision. Take charge of your path, inspire others, and trust in your ability to create positive change.",
