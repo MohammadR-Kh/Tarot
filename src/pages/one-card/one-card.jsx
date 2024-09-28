@@ -55,6 +55,10 @@ const OneCard = () => {
           <p><strong>Keywords:</strong> {isReversed ? card.reversed.keywords : card.uprigth.keywords}</p>
           <p><strong>Description:</strong> {isReversed ? card.reversed.description : card.uprigth.description}</p>
           <p><strong>Advice:</strong> {isReversed ? card.reversed.advice : card.uprigth.advice}</p>
+          <h2>Love & Relationship</h2>
+          <p><strong>Keywords:</strong> {isReversed ? card.love.reversed.keywords : card.love.uprigth.keywords}</p>
+          <p><strong>Description:</strong> {isReversed ? card.love.reversed.description : card.love.uprigth.description}</p>
+          <p><strong>Advice:</strong> {isReversed ? card.love.reversed.advice : card.love.uprigth.advice}</p>
         </div>
       </div>
       <button className='show-card' onClick={drawRandomCard}>Draw Another Card</button>

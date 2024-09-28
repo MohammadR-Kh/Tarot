@@ -77,6 +77,7 @@ const CelticCross = () => {
           <div className="card-meanings">
             {cards.map((card, index) => {
               const meaning = isReversed[index] ? card.reversed : card.uprigth;
+              const love = isReversed[index] ? card.love.reversed : card.love.uprigth;
               return (
                 <div key={card.id} className='card-meaning'>
                   
@@ -85,6 +86,10 @@ const CelticCross = () => {
                   <p><strong>Keywords:</strong> {meaning.keywords}</p>
                   <p><strong>Meaning:</strong> {meaning.description}</p>
                   <p><strong>Advice:</strong> {meaning.advice}</p>
+                  <h3>Love & Relationship</h3>
+                  <p><strong>Keywords:</strong> {love.keywords}</p>
+                  <p><strong>Meaning:</strong> {love.description}</p>
+                  <p><strong>Advice:</strong> {love.advice}</p>
                 </div>
               );
             })}

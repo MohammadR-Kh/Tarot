@@ -14,7 +14,19 @@
       "advice": "Take a step back and evaluate your current situation. Avoid being overly impulsive, and think things through before proceeding.",
       "description": "The Fool reversed suggests that you may be holding back from taking a significant risk or stepping into the unknown. This hesitation can come from fear of failure, doubt, or unwillingness to move outside of your comfort zone. It warns you to reconsider reckless or impulsive actions that could lead to mistakes. Rather than fully embracing the freedom of The Fool, you might be stuck in indecision or acting with too much caution. In some cases, the Fool reversed can signify foolishness, thoughtless behavior, or ignoring the consequences of your actions. You may be jumping into a situation without proper planning, and this could lead to setbacks. The reversed Fool urges you to pause and consider the bigger picture before moving forward."
      },
-     "yesorno" : "Yes"
+     "yesorno" : "Yes",
+     "love":{
+      "uprigth":{
+        "keywords": "New beginnings, adventure, spontaneity, freedom in love.",
+        "advice": "Be open to new experiences in love, embrace spontaneity, and trust the journey, even if it’s uncertain.",
+        "description": "The Fool suggests new romantic possibilities or fresh starts in relationships. It encourages a carefree attitude, allowing you to enjoy the present without overthinking. If single, it’s time to take a chance on love. In relationships, it signals excitement and new dynamics, urging you to approach love with an open heart and a sense of adventure."
+      },
+      "reversed":{
+        "keywords": "Recklessness, hesitation, foolish decisions in love.",
+        "advice": "Avoid making rash decisions in love. Take time to assess your choices carefully.",
+        "description": "The reversed Fool warns against reckless behavior in relationships. You may be jumping into love too quickly without considering the consequences or hesitating to take an emotional risk. It advises caution, suggesting that rushing in without thinking might lead to regret."
+      }
+     }
   },
   {
     "id": 2,
@@ -30,7 +42,19 @@
       "advice": "Reassess your intentions and use your skills ethically. Trust in your abilities but remain grounded and avoid manipulation.",
       "description": "The Magician reversed may indicate that you are not fully utilizing your talents or potential. You may feel unsure of your abilities or lack the confidence to take action. Alternatively, you might be using your power or skills inappropriately, possibly manipulating situations or people for personal gain. In this reversed position, The Magician can also signify trickery, deception, or ill-intentions, so be cautious of anyone who may be using their influence to mislead or manipulate. On a personal level, The Magician reversed can highlight a feeling of being out of sync or not having the resources needed to achieve your goals. You may be facing internal blocks or confusion about how to proceed. It’s important to evaluate your intentions and be clear about what you want to achieve before moving forward."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love": {
+      "uprigth":{
+        "keywords": "Manifestation, connection, attraction, communication.",
+        "advice": "Use your communication skills to strengthen or manifest the relationship you desire.",
+        "description": "The Magician represents the power of attraction and manifestation in love. If you are single, it suggests that you can attract the partner you want by being confident and clear about your desires. In a relationship, it indicates a strong connection where clear communication and intention will improve your bond."
+      },
+      "reversed":{
+        "keywords": "Manipulation, miscommunication, deceit.",
+        "advice": "Be wary of manipulation in your relationship, and ensure that communication is honest and open.",
+        "description": "The reversed Magician warns of manipulation or dishonesty in love. You or your partner might not be fully transparent about intentions, leading to misunderstandings or deception. It’s a sign to re-evaluate the relationship and address any lack of trust or hidden agendas"
+      }
+    }
   },
   {
     "id": 3,
@@ -46,7 +70,19 @@
       "advice": "Reconnect with your inner self. Trust your instincts and pay attention to subtle signs around you. Be cautious of hidden agendas or secrets.",
       "description": "The High Priestess reversed suggests that you are disconnected from your intuition or ignoring your inner voice. You may be struggling to listen to your instincts, or you might be relying too heavily on external validation or advice from others. This card indicates a need to turn inward and trust yourself more fully. It may also signal that secrets or hidden information are being withheld from you, and you need to be aware of what is not being said or shown. In a reversed position, The High Priestess can also represent blocked intuition, a lack of self-awareness, or an unwillingness to face the deeper truths within yourself. It’s essential to take time for self-reflection and meditation to reconnect with your inner guidance."
     },
-    "yesorno" : "No"
+    "yesorno" : "No",
+    "love":{
+      "uprigth":{
+        "keywords": "Intuition, mystery, emotional depth, inner knowing.",
+        "advice": "Trust your intuition and inner wisdom when it comes to love. Follow your instincts.",
+        "description": "The High Priestess encourages you to trust your inner voice regarding matters of the heart. It suggests that there may be hidden feelings or deeper emotional layers to explore. In a relationship, this card represents emotional depth, understanding, and a quiet but powerful connection."
+      },
+      "reversed":{
+        "keywords": "Secrets, emotional disconnection, repression.",
+        "advice": "Be honest about your feelings and encourage open communication to avoid misunderstandings.",
+        "description": "The reversed High Priestess indicates that secrets or emotional repression may be causing issues in a relationship. It may point to a lack of trust or withholding important information. To move forward, you must address these hidden concerns and communicate openly."
+      }
+    }
   },
   {
     "id": 4,
@@ -62,7 +98,19 @@
       "advice": "Reconnect with your creative side and nurture your inner self. Avoid over-controlling situations or people.",
       "description": "The Empress reversed may indicate creative blocks or a lack of nurturing energy. You may be feeling disconnected from your feminine energy or from the natural cycles of life. This card can suggest that you are neglecting self-care, or that you are too focused on material concerns at the expense of emotional or spiritual growth. It’s important to reconnect with your creative side and allow yourself to be more open and receptive. In some cases, The Empress reversed can signal issues related to dependency or smothering. You may be over-nurturing someone or something to the point where it becomes unhealthy. This card suggests a need to find balance and allow things to unfold in their own time, without forcing or controlling the outcome."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love":{
+      "uprigth":{
+        "keywords": "Nurturing, love, abundance, fertility, affection.",
+        "advice": "Embrace the nurturing, loving energy in your relationship. Show care and affection.",
+        "description": "The Empress is a symbol of love, abundance, and fertility. It suggests a period of nurturing and growth in your love life, where emotional support and care will strengthen your relationship. If single, it indicates that love is near, and you are in a place to attract a nurturing partner."
+      },
+      "reversed":{
+        "keywords": "Neglect, over-dependence, lack of care.",
+        "advice": "Avoid neglecting your partner's emotional needs, and don’t become too dependent in love.",
+        "description": "The reversed Empress warns of neglect or a lack of emotional nourishment in a relationship. It may indicate that either you or your partner is not feeling cared for. This card urges you to take steps to nurture the relationship or address feelings of over-dependence."
+      }
+    }
   },
   {
     "id": 5,
@@ -78,7 +126,19 @@
       "advice": "Loosen your grip on control and be more flexible. Avoid being overbearing and allow others to express themselves.",
       "description": "The Emperor reversed suggests that you may be feeling a loss of control or authority. You might be facing challenges in managing responsibilities or maintaining structure in your life. In some cases, this card can signify overbearing authority or domination, either from yourself or someone else. You may be too rigid or controlling, which could be stifling creativity or growth. In a personal context, The Emperor reversed can highlight issues with father figures or male authority figures. You might be struggling with paternal expectations or rebelling against authority. It’s a sign to evaluate your relationship with power and authority, and ensure that you are using your influence in a healthy and constructive way."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love": {
+      "uprigth":{
+        "keywords": "Stability, protection, authority, structure.",
+        "advice": "Provide stability and structure in your relationship. Take responsibility for your emotional well-being",
+        "description": "The Emperor signifies a stable, structured, and protective relationship. It can represent a partner who offers security and leadership. If single, this card suggests that you may be looking for a partner who brings stability to your life."
+      },
+      "reversed": {
+        "keywords": "Control issues, rigidity, stubbornness.",
+        "advice": "Avoid being too controlling in your relationship. Let go of the need to dominate",
+        "description": "The reversed Emperor warns against being overly controlling or rigid in your relationship. It may indicate power struggles or stubbornness. The card suggests that you need to allow more flexibility and emotional openness, as too much control can stifle the connection."
+      }
+    }
   },
   {
     "id": 6,
@@ -94,7 +154,19 @@
       "advice": "Think for yourself and break away from traditions that no longer serve you. Seek your own spiritual path and wisdom.",
       "description": "The Hierophant reversed suggests that you may be challenging traditional structures or belief systems. You may feel restricted by societal norms or institutions and want to break free from conformity. This card signals a desire for independence and a need to find your own path, even if it goes against established conventions. It can also indicate that you are questioning authority figures or established rules. The Hierophant reversed encourages you to think for yourself and to seek personal truths rather than simply following what is expected of you."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love":{
+      "uprigth": {
+        "keywords": "Tradition, commitment, spiritual connection.",
+        "advice": "Embrace the traditional aspects of your relationship. Build a strong foundation based on shared values.",
+        "description": "The Hierophant represents commitment, tradition, and spiritual connection in love. It suggests that your relationship may be moving toward a more serious or traditional phase, such as marriage or deep commitment. This card encourages following conventional paths to strengthen your bond."
+      },
+      "reversed": {
+        "keywords": "Rebellion, non-conformity, unconventional relationships.",
+        "advice": "Be open to exploring unconventional relationship paths if they resonate with you.",
+        "description": "The reversed Hierophant suggests that you may be rebelling against traditional relationship structures. You might feel confined by expectations and seek a more unconventional or non-traditional relationship. It encourages you to explore what feels right for you, even if it goes against societal norms."
+      }
+    }
   },
   {
     "id": 7,
@@ -110,7 +182,19 @@
       "advice": "Address imbalances in relationships and be honest with yourself and others. Take time to realign with your core values.",
       "description": "The Lovers reversed can suggest disharmony, misalignment, or conflict in relationships. There may be issues with communication, trust, or emotional connection between you and a partner. This card can also represent internal conflicts, particularly around personal values, desires, or choices. You may feel torn between two paths, struggling to make a decision that feels right for you. The Lovers reversed urges you to reflect on the imbalances in your relationships or within yourself. It may be time to address unresolved conflicts, heal emotional wounds, or make a difficult choice to restore harmony."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love":{
+      "uprigth":{
+        "keywords": "Union, love, harmony, partnership, choices.",
+        "advice": "Strengthen the bond in your relationship by focusing on harmony and mutual understanding.",
+        "description": "The Lovers card represents a deep connection between two people, symbolizing love, harmony, and mutual respect. It often signifies a soulmate connection or a relationship based on mutual attraction and balance. If single, this card suggests the potential for a meaningful and loving partnership."
+      },
+      "reversed": {
+        "keywords": "Disharmony, imbalance, difficult choices.",
+        "advice": "Address any imbalances or conflicts in your relationship before they grow deeper.",
+        "description": "The reversed Lovers suggests a lack of harmony or imbalance in your relationship. There may be unresolved conflicts or difficult choices that need to be made. It advises you to address these issues to restore balance and understanding"
+      }
+    }
   },
   {
     "id":8,
@@ -126,7 +210,19 @@
       "advice": "Reassess your direction and regain control. Avoid forcing situations and approach challenges with patience and clarity.",
       "description": "The Chariot reversed suggests a loss of control or direction. You may be feeling overwhelmed by challenges or unsure of which direction to take. This card can indicate a lack of willpower or focus, leading to frustration or stagnation. The Chariot reversed urges you to regain control of your situation and take the reins of your life once more. In some cases, The Chariot reversed can signal aggression or a desire to force your way through obstacles without considering the consequences. It’s important to slow down, reassess your goals, and approach challenges with patience and balance."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love":{
+      "uprigth": {
+        "keywords": "Determination, willpower, triumph over obstacles, control.",
+        "advice": "Stay focused on your relationship goals and work together to overcome challenges.",
+        "description": "The Chariot signifies triumph and determination in love. It indicates that you and your partner can successfully navigate challenges together. This card encourages you to stay focused on your goals as a couple, harnessing your willpower to overcome any obstacles in your path. If single, it suggests that you are ready to take charge of your love life and pursue the relationships you desire."
+      },
+      "reversed":{
+        "keywords": "Lack of direction, aggression, obstacles in love.",
+        "advice": "Avoid impulsive decisions in relationships and take time to understand your feelings.",
+        "description": "The reversed Chariot suggests that you may be experiencing a lack of direction or control in your love life. There may be obstacles that are causing frustration or aggressive behavior in your relationships. This card advises you to pause and assess your feelings before making impulsive decisions that could lead to conflicts."
+      }
+    }
   },
   {
     "id":9,
@@ -142,7 +238,19 @@
       "advice": "Reconnect with your inner strength and have faith in your abilities. Avoid being overly aggressive or passive.",
       "description": "The Strength card reversed may indicate a lack of confidence or inner strength. You may be feeling overwhelmed by fear, doubt, or insecurity, and you may struggle to find the courage to face challenges. This card suggests that you need to reconnect with your inner power and build your self-esteem. Strength reversed can also point to a tendency to be overly aggressive or to avoid problems altogether. In some cases, this card may indicate that you are not allowing yourself to be vulnerable, and as a result, you may be suppressing your emotions or fears. It’s important to confront your doubts and trust in your ability to persevere."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love":{
+      "uprigth":{
+        "keywords": "Courage, patience, compassion, inner strength in love.",
+        "advice": "Approach your relationship with patience and compassion, allowing love to guide your actions.",
+        "description": "Strength signifies inner courage and compassion in relationships. It encourages you to approach love with kindness and patience. This card suggests that overcoming challenges together requires emotional strength and understanding. If single, it indicates that your inner strength will attract the right partner who appreciates your compassionate nature."
+      },
+      "reversed":{
+        "keywords": "Weakness, insecurity, self-doubt in love.",
+        "advice": "Work on building your self-esteem and confidence in love to attract healthy relationships.",
+        "description": "The reversed Strength card may indicate feelings of insecurity or self-doubt in your love life. You might be struggling to express your emotions or stand your ground in a relationship. This card advises you to focus on building your confidence and self-worth, as doing so will empower you to create healthier relationships."
+      }
+    }
   },
   {
     "id":10,
@@ -158,7 +266,19 @@
       "advice": "Avoid isolating yourself too much. Reconnect with others and face any truths you may be avoiding.",
       "description": "The Hermit reversed may indicate isolation or loneliness. You may be withdrawing too much from the world, cutting yourself off from social connections, or feeling disconnected. This card suggests that it's important to find a balance between introspection and engagement with the world. It can also signify resistance to self-reflection or an avoidance of deeper truths. You may be afraid to confront certain aspects of yourself, or you may be looking outside for answers instead of seeking them within."
     },
-    "yesorno" : "No"
+    "yesorno" : "No",
+    "love":{
+      "uprigth":{
+        "keywords": "Soul-searching, introspection, solitude, inner guidance.",
+        "advice": "Take time for self-reflection and personal growth to gain clarity in your love life.",
+        "description": "The Hermit encourages introspection and soul-searching in matters of the heart. It suggests that taking time for yourself can lead to greater clarity about what you want in love. If you're in a relationship, this may indicate a need for personal space to evaluate your feelings. For singles, it encourages self-discovery before seeking love."
+      },
+      "reversed":{
+        "keywords": "Isolation, loneliness, withdrawal from love.",
+        "advice": "Avoid isolating yourself emotionally; seek connections and support from others.",
+        "description": "The reversed Hermit indicates feelings of loneliness or isolation in your love life. You may be withdrawing from relationships or avoiding emotional connections. This card advises you to reach out to others and reconnect, as opening up can lead to healing and support."
+      }
+    }
   },
   {
     "id": 11,
@@ -174,7 +294,19 @@
       "advice": "Be mindful of repeating negative patterns and accept that change is inevitable. Take control of what you can and trust that setbacks will pass.",
       "description": "The Wheel of Fortune reversed suggests that you may be resisting change or feeling stuck in a negative cycle. You might be experiencing a run of bad luck or facing unexpected challenges. This card encourages you to recognize that these setbacks are temporary and part of life's ebb and flow. In some cases, the reversed Wheel can indicate a need to break free from destructive patterns. You may need to take a more active role in shaping your destiny instead of leaving things to chance."
     },
-    "yesorno" : "No_Maybe"
+    "yesorno" : "No_Maybe",
+    "love":{
+      "uprigth":{
+        "keywords": "Change, cycles, destiny, good fortune in love.",
+        "advice": "Embrace the changes in your love life, knowing that they are part of a larger cycle.",
+        "description": "The Wheel of Fortune signifies cycles and changes in your love life. It suggests that events may shift unexpectedly, bringing new opportunities for love or transformation in current relationships. Embrace these changes, as they are part of your destiny. This card encourages you to remain open to the twists and turns of love, knowing that they can lead to growth and new beginnings."
+      },
+      "reversed":{
+        "keywords": "Bad luck, resistance to change, delays in love.",
+        "advice": "Avoid resisting the natural flow of your love life; instead, adapt to changes and embrace new experiences.",
+        "description": "The reversed Wheel of Fortune may indicate a feeling of stagnation or bad luck in your love life. You might be resisting necessary changes or feeling like events are not going in your favor. This card urges you to let go of control and accept that change is a natural part of the journey. Embracing the ebb and flow can lead to better outcomes."
+      }
+    }
   },
   {
     "id":12,
@@ -190,7 +322,19 @@
       "advice": "Seek to restore balance and fairness. Take responsibility for your actions and ensure you are acting with integrity.",
       "description": "Justice reversed may indicate injustice, dishonesty, or imbalance. You may be experiencing unfair treatment or feeling that things are not going in your favor. This card suggests that there may be dishonesty or a lack of accountability in a situation, and it encourages you to seek fairness and truth. Reversed Justice can also represent a need to re-evaluate your own actions. You may not be acting in alignment with your values, or you may be avoiding responsibility for your choices. It’s time to face the truth and make things right."
     },
-    "yesorno" : "No"
+    "yesorno" : "No",
+    "love":{
+      "uprigth":{
+        "keywords": "Fairness, truth, accountability, balance in love.",
+        "advice": "Ensure that you and your partner are treating each other fairly and honestly.",
+        "description": "Justice represents fairness, truth, and accountability in relationships. It encourages open communication and honesty between partners. If you are facing challenges, this card suggests that examining the dynamics of your relationship will lead to greater balance and understanding. In single life, it may indicate the need to reflect on past relationships and learn from them before pursuing new love."  
+      },
+      "reversed":{
+        "keywords": "Injustice, dishonesty, imbalance in love.",
+        "advice": "Address any unfairness or dishonesty in your relationship before it causes greater issues.",
+        "description": "The reversed Justice card warns of potential dishonesty or imbalance in your love life. There may be unresolved issues or feelings of unfair treatment that need addressing. This card advises you to confront these problems directly to restore harmony and fairness in your relationships."
+      }
+    }
   },
   {
     "id": 13,
@@ -206,7 +350,19 @@
       "advice": "Release resistance and embrace change. Let go of what is holding you back and shift your perspective to move forward.",
       "description": "The Hanged Man reversed suggests that you may be resisting the need to pause or surrender. You might be feeling stuck or frustrated, unable to see a way forward. This card can indicate that you are holding onto old patterns or resisting necessary changes, which is preventing you from moving forward. The reversed Hanged Man encourages you to release resistance and embrace the opportunity for transformation. You may need to shift your perspective or let go of something that is no longer serving you."
     },
-    "yesorno" : "No_Maybe"
+    "yesorno" : "No_Maybe",
+    "love":{
+      "uprigth":{
+        "keywords": "Sacrifice, letting go, new perspectives, patience in love.",
+        "advice": "Sometimes, you need to let go of old patterns to gain new insights in love.",
+        "description": "The Hanged Man symbolizes sacrifice and the need for a new perspective in relationships. It may indicate that you need to pause and reflect rather than push forward. This card encourages patience and an understanding that sometimes you must let go of control to allow love to flourish. If single, it suggests that taking a step back may lead to greater self-awareness and clarity about what you truly desire."
+      },
+      "reversed":{
+        "keywords": "Stagnation, indecision, unwillingness to change.",
+        "advice": "Avoid getting stuck in a state of indecision; it’s time to take action in your love life.",
+        "description": "The reversed Hanged Man suggests that you may be feeling stuck or indecisive about your love life. There may be a reluctance to let go of old patterns or to make necessary changes. This card encourages you to take action and embrace the changes needed to move forward in love."
+      }
+    }
   },
   {
     "id": 14,
@@ -222,7 +378,19 @@
       "advice": "Release resistance to change and embrace transformation. Let go of the past and allow new opportunities to come into your life.",
       "description": "The Death card reversed suggests resistance to change or a fear of letting go. You may be clinging to the past, unable to move forward. This resistance is likely causing stagnation, preventing growth and transformation. Reversed Death encourages you to confront your fears of change and to release what no longer serves you. It can also indicate that you are in a state of transition but are struggling to accept it. The reversed card urges you to allow the process of transformation to unfold and to trust that new opportunities will emerge."
     },
-    "yesorno" : "No"
+    "yesorno" : "No",
+    "love":{
+      "uprigth":{
+        "keywords": "Transformation, endings, new beginnings, closure.",
+        "advice": "Embrace the transformations occurring in your love life; they may lead to new beginnings.",
+        "description": "The Death card signifies significant transformation and change. In love, it often represents the end of a chapter, allowing for new beginnings. This could mean the end of an unfulfilling relationship or significant changes within a current one. Embrace these changes as necessary for growth, as they lead to new opportunities in love."
+      },
+      "reversed": {
+        "keywords": "Resistance to change, fear of endings, stagnation.",
+        "advice": "Let go of the fear of change and allow the necessary transformations to happen.",
+        "description": "The reversed Death card warns of resisting necessary changes or clinging to past relationships that no longer serve you. This resistance can lead to stagnation in your love life. The card encourages you to confront your fears and allow endings to occur, making way for new beginnings and opportunities."
+      }
+    }
   },
   {
     "id": 15,
@@ -238,7 +406,19 @@
       "advice": "Avoid excess and seek to restore balance in your life. Be patient and allow things to unfold in their own time.",
       "description": "Reversed, Temperance can indicate imbalance, excess, or disharmony. You may be feeling out of sync with yourself or others, or you may be overindulging in certain areas of your life. This card suggests that you need to restore balance and avoid extremes. It can also point to a lack of patience or frustration with the pace of events. You may be rushing into things or trying to force a resolution instead of allowing things to unfold naturally."
     },
-    "yesorno" : "Maybe"
+    "yesorno" : "Maybe",
+    "love":{
+      "uprigth":{
+        "keywords": "Balance, harmony, moderation, patience in love.",
+        "advice": "Strive for balance and harmony in your relationships. Patience is key to understanding.",
+        "description": "Temperance represents balance and harmony in relationships. It encourages you to find a middle ground with your partner and practice patience. This card suggests that moderation and understanding can lead to a harmonious love life. If single, it indicates the need to focus on inner balance before seeking love, ensuring that you attract a partner who resonates with your energy."
+      },
+      "reversed":{
+        "keywords": "Imbalance, lack of harmony, excess in love.",
+        "advice": "Address any imbalances in your relationship, and avoid extremes that may cause conflict.",
+        "description": "The reversed Temperance card warns of disharmony or imbalance in love. You may be experiencing conflict due to extreme behaviors or lack of compromise. This card advises you to identify the areas that need balance and work towards creating a more harmonious relationship."
+      }
+    }
   },
   {
     "id": 16,
@@ -254,7 +434,19 @@
       "advice": "Break free from limiting beliefs and behaviors. Take steps toward liberation and reclaim your personal power.",
       "description": "Reversed, The Devil suggests liberation, breaking free from addictions or unhealthy attachments. It indicates that you are in the process of overcoming negative patterns or behaviors that have been holding you back. This card encourages you to take steps toward reclaiming your power and freeing yourself from self-imposed limitations. It may also suggest that you are beginning to recognize the impact of toxic influences in your life and are ready to make positive changes."
     },
-    "yesorno" : "No"
+    "yesorno" : "No",
+    "love":{
+      "uprigth":{
+        "keywords": "Temptation, addiction, materialism, unhealthy attachments.",
+        "advice": "Be aware of unhealthy patterns in your relationships and strive for freedom from them.",
+        "description": "The Devil symbolizes temptation and unhealthy attachments in love. It may indicate that you are in a relationship characterized by materialism or addiction, or that you may be feeling trapped in a situation. This card encourages you to examine your attachments and seek freedom from negative influences, allowing for healthier connections in love."
+      },
+      "reversed":{
+        "keywords": "Liberation, breaking free, overcoming addiction.",
+        "advice": "Take steps to break free from unhealthy patterns in your love life and embrace healthier connections.",
+        "description": "The reversed Devil signifies liberation and the breaking free from unhealthy attachments. You may be overcoming obstacles in your love life and seeking healthier relationships. This card encourages you to continue on this path of self-discovery and healing, fostering connections that promote personal growth and happiness."
+      }
+    }
   },
   {
     "id": 17,
@@ -270,7 +462,19 @@
       "advice": "Stop resisting change and face challenges directly. Begin the process of rebuilding on stronger foundations.",
       "description": "Reversed, The Tower can suggest that you are resisting change or trying to avoid a crisis. You may be holding onto a situation that is no longer sustainable, which could lead to greater upheaval later on. This card encourages you to face challenges head-on instead of delaying the inevitable. It can also indicate that you are beginning to rebuild after a period of chaos or destruction. While the process may be difficult, you are moving toward greater stability and clarity."
     },
-    "yesorno" : "No"
+    "yesorno" : "No",
+    "love":{
+      "uprigth":{
+        "keywords": "Sudden change, upheaval, revelation, chaos in love.",
+        "advice": "Embrace the changes that are coming, even if they are difficult, as they may lead to growth.",
+        "description": "The Tower represents sudden upheaval and change in your love life. It may indicate a revelation that shakes the foundations of your relationship, leading to chaos or an unexpected breakup. While these moments can be painful, they often lead to necessary transformations. Embrace the lessons that come from the chaos, as they can lead to a stronger foundation for future relationships."
+      },
+      "reversed":{
+        "keywords": "Avoidance of disaster, fear of change, stagnation.",
+        "advice": "Don't avoid necessary changes; facing them can lead to healing and growth.",
+        "description": "The reversed Tower warns against avoiding necessary changes or sticking to a relationship that is no longer serving you. Fear of upheaval may be causing you to stay in a stagnant situation. This card encourages you to confront the truths you may be avoiding and take action toward a more fulfilling love life."
+      }
+    }
   },
   {
     "id": 18,
@@ -286,7 +490,19 @@
       "advice": "Reconnect with your inner guidance and renew your sense of hope. Trust that things will get better, even if it’s hard to see right now.",
       "description": "Reversed, The Star may indicate feelings of hopelessness or a lack of faith in the future. You may be going through a period of doubt or pessimism, struggling to see the light at the end of the tunnel. This card encourages you to reconnect with your inner guidance and to have faith that things will improve. It can also suggest that you are feeling disconnected from your spiritual path or from the things that inspire you. The reversed Star urges you to rekindle your faith and hope, even in difficult times."
     },
-    "yesorno" : "Maybe"
+    "yesorno" : "Maybe",
+    "love":{
+      "uprigth":{
+        "keywords": "Hope, inspiration, renewal, serenity in love.",
+        "advice": "Stay hopeful and trust in the healing and renewal that love can bring.",
+        "description": "The Star symbolizes hope and renewal in your love life. It suggests that healing is possible, and it encourages you to remain optimistic about your romantic future. If you’ve been through challenges, this card assures you that brighter days are ahead, and love will bring serenity and inspiration."
+      },
+      "reversed":{
+        "keywords": "Lack of faith, discouragement, insecurity in love.",
+        "advice": "Reconnect with your hopes and dreams in love to regain faith in relationships.",
+        "description": "The reversed Star indicates feelings of discouragement or a lack of faith in love. You may be feeling insecure or disheartened by past experiences. This card urges you to reconnect with your dreams and hopes, allowing yourself to heal and restore your belief in the possibility of love."
+      }
+    }
   },
   {
     "id": 19,
@@ -302,7 +518,19 @@
       "advice": "Continue to trust your intuition as you move through uncertainty. Clarity is on the horizon, and you are on the path to greater understanding.",
       "description": "Reversed, The Moon can indicate that confusion or uncertainty is lifting. You may be gaining clarity after a period of illusion or fear, and things that were once hidden are now becoming clear. This card suggests that you are beginning to trust your intuition more fully and are moving through your fears. It can also indicate that you are still struggling with illusions or false perceptions, but that you are on the verge of breaking free from them."
     },
-    "yesorno" : "No_Maybe"
+    "yesorno" : "No_Maybe",
+    "love":{
+      "uprigth":{
+        "keywords": "Illusion, intuition, fear, anxiety in love.",
+        "advice": "Trust your intuition and navigate any fears or anxieties regarding your love life.",
+        "description": "The Moon represents illusions and uncertainty in love. It may indicate that you are grappling with fears or anxieties that cloud your judgment. This card encourages you to trust your intuition as you navigate these emotional waters. By addressing underlying fears, you can gain clarity and strengthen your relationships."
+      },
+      "reversed":{
+        "keywords": "Release of fear, clarity, overcoming illusion.",
+        "advice": "Seek clarity and confront any fears that may be influencing your love life.",
+        "description": "The reversed Moon suggests that you are beginning to release fears and illusions that have been affecting your love life. Clarity is emerging, allowing you to see relationships more clearly. This card encourages you to embrace this newfound clarity, as it will help you make better choices in love."
+      }
+    }
   },
   {
     "id": 20,
@@ -318,7 +546,19 @@
       "advice": "Reconnect with your sense of optimism and joy. Even in challenging times, remember that happiness and success are still possible.",
       "description": "Reversed, The Sun may indicate temporary setbacks or feelings of self-doubt. You may be experiencing challenges that are clouding your sense of optimism or preventing you from fully embracing the joy in your life. This card suggests that these challenges are temporary, and that by reconnecting with your inner light, you can overcome them. It can also suggest that you are not fully recognizing the success or joy in your life, perhaps because you are focusing too much on what’s missing."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love":{
+      "uprigth":{
+        "keywords": "Joy, success, positivity, warmth in love.",
+        "advice": "Embrace the joy and positivity in your love life; celebrate your successes together.",
+        "description": "The Sun signifies joy, success, and positivity in your love life. It suggests that you are in a phase of happiness and fulfillment, where love flourishes. This card encourages you to celebrate the warmth and light that love brings, strengthening your bond with your partner or attracting new love into your life."
+      },
+      "reversed":{
+        "keywords": "Temporary setbacks, lack of joy, negativity in love.",
+        "advice": "Address any negativity in your love life and work together to restore joy and positivity.",
+        "description": "The reversed Sun may indicate temporary setbacks or a lack of joy in your love life. You might be experiencing challenges that cloud your happiness. This card advises you to work together with your partner to address these issues, focusing on restoring positivity and joy in your relationship."
+      }
+    }
   },
   {
     "id": 21,
@@ -334,7 +574,19 @@
       "advice": "Let go of self-doubt and face important decisions with confidence. Practice forgiveness and self-compassion.",
       "description": "Reversed, Judgement suggests self-doubt, avoidance, or a reluctance to make important decisions. You may be afraid of the changes that are coming or unwilling to face the truth about a situation. This card encourages you to release fear and trust in your ability to make the right choices. It can also indicate that you are being too harsh on yourself or others, leading to feelings of guilt or regret. The reversed Judgement urges you to practice forgiveness and self-compassion."
     },
-    "yesorno" : "No_Maybe"
+    "yesorno" : "No_Maybe",
+    "love":{
+      "uprigth":{
+        "keywords": "Reflection, reckoning, awakening, renewal in love.",
+        "advice": "Reflect on your past relationships and learn from them to move forward.",
+        "description": "Judgment signifies reflection and awakening in love. It encourages you to evaluate your past relationships and learn from your experiences. This card indicates a time of renewal, where you can shed old patterns and embrace a new approach to love. If single, it suggests that understanding your past can guide you toward a healthier future."
+      },
+      "reversed":{
+        "keywords": "Self-doubt, avoidance of reckoning, feeling stuck in love.",
+        "advice": "Confront any self-doubt or unresolved issues to move forward in your love life.",
+        "description": "The reversed Judgment card warns of avoiding necessary self-reflection and reckoning in your love life. You may be feeling stuck or hesitant to confront your past. This card encourages you to address these feelings, as doing so will enable you to move forward and create more fulfilling relationships."
+      }
+    }
   },
   {
     "id": 22,
@@ -350,7 +602,19 @@
       "advice": "Address any unresolved issues and seek closure before moving forward. Reflect on what is holding you back from feeling complete.",
       "description": "Reversed, The World can indicate unfinished business, delays, or a lack of closure. You may feel as though you are stuck or unable to move forward, even though a chapter in your life is coming to an end. This card suggests that you need to address any loose ends or unresolved issues before you can fully embrace the next phase of your journey. It can also suggest that you are feeling disconnected or incomplete, as if something is missing from your life. The reversed World encourages you to seek closure and to reflect on what is holding you back from achieving a sense of fulfillment."
     },
-    "yesorno" : "Yes"
+    "yesorno" : "Yes",
+    "love":{
+      "uprigth":{
+        "keywords": "Completion, fulfillment, achievement, harmony in love.",
+        "advice": "Celebrate your achievements in love and embrace the harmony you have created.",
+        "description": "The World signifies completion and fulfillment in your love life. It suggests that you have reached a significant milestone, either within a relationship or in your journey toward finding love. This card encourages you to celebrate your achievements and the harmony you’ve created, recognizing that love is a journey of growth and fulfillment."
+      },
+      "reversed":{
+        "keywords": "Incompletion, lack of closure, feeling unfulfilled in love.",
+        "advice": "Address any feelings of incompletion or unfulfillment in your love life to find closure and move forward.",
+        "description": "The reversed World indicates feelings of incompletion or lack of closure in your love life. You may be holding on to unresolved issues or feeling unfulfilled in a relationship. This card advises you to confront these feelings and seek resolution to create space for new beginnings and fulfillment in love."
+      }
+    }
   },
   {
     "id": 23,
@@ -365,6 +629,18 @@
       "keywords": "Missed opportunities, financial loss, lack of planning, instability.",
       "advice": "Reflect on your financial decisions and consider if you’re missing important opportunities. Avoid risky ventures and focus on securing your current situation.",
       "description": "The Ace of Pentacles reversed suggests that there may be missed financial opportunities, or perhaps the timing isn’t right for a new venture. You could be experiencing instability or a sense of lack in your material world. Be careful with new investments or financial commitments. It’s also a sign to review your financial planning and make sure you're setting solid foundations before moving forward."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "New beginnings, stability, abundance, potential in love.",
+        "advice": "Embrace new opportunities for stability and growth in your relationship.",
+        "description": "The Ace of Pentacles represents the potential for new beginnings and stability in love. If you are in a relationship, this card suggests that your bond may deepen as you both work towards creating a secure and abundant future. For singles, it symbolizes the opportunity to begin a new, stable relationship with long-term potential. This card encourages you to be open to the possibilities of grounded, nurturing love."
+      },
+      "reversed":{
+        "keywords": "Missed opportunities, instability, delays in love.",
+        "advice": "Avoid focusing on material concerns that may be hindering your emotional connection.",
+        "description": "The reversed Ace of Pentacles may indicate missed opportunities or delays in the stability you seek in love. You may be too focused on material or external factors, causing a disconnect in your relationship. This card advises you to re-evaluate your priorities and focus on nurturing the emotional aspects of your relationship to restore balance."
+      }
     }
   },
   {
@@ -380,6 +656,18 @@
       "keywords": "Imbalance, overwhelm, disorganization, financial mismanagement.",
       "advice": "Simplify your life and reduce the number of things you’re trying to juggle. It’s time to focus on what’s truly important and avoid spreading yourself too thin.",
       "description": "The reversed Two of Pentacles warns that you may be struggling to keep everything in balance. You could be taking on too much at once, leading to overwhelm and chaos. Financially, it suggests poor management or lack of attention to important matters. Now is the time to reassess your priorities and reduce the demands on your time and energy. If necessary, ask for help or delegate some of your responsibilities."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Balance, juggling, adaptability, flexibility in love.",
+        "advice": "Strive for balance between love and other areas of your life.",
+        "description": "The Two of Pentacles represents balance and adaptability in relationships. It suggests that you and your partner may be juggling various aspects of life—such as work, family, and love—and finding it challenging to maintain equilibrium. This card encourages you to find a harmonious balance so that your relationship remains strong. If single, it indicates that you may need to better balance your priorities before diving into a new relationship."
+      },
+      "reversed": {
+        "keywords": "Overwhelm, imbalance, neglect in love.",
+        "advice": "Address any areas of neglect in your relationship and work on restoring balance.",
+        "description": "The reversed Two of Pentacles warns of imbalance or overwhelm in your love life. You or your partner may be struggling to keep up with life's demands, leading to neglect in your relationship. This card advises you to re-assess your priorities and focus on bringing balance back into your relationship before problems escalate."
+      }
     }
   },
   {
@@ -395,6 +683,18 @@
       "keywords": "Lack of teamwork, poor planning, lack of skill development, conflict in collaboration.",
       "advice": "Review your current collaborations and see where communication may be lacking. Focus on improving your skills or working more harmoniously with others.",
       "description": "The Three of Pentacles reversed suggests issues in teamwork or collaboration. There may be poor communication, lack of cohesion, or even conflict between those involved in a project. It’s possible that someone isn’t pulling their weight or the goals are not clearly defined. This card calls for a reevaluation of the work environment and a renewed focus on improving skills and communication to ensure everyone is aligned with the same goals."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Collaboration, teamwork, building a solid foundation in love.",
+        "advice": "Work together as a team to build a strong and supportive relationship.",
+        "description": "The Three of Pentacles signifies teamwork and collaboration in relationships. It suggests that you and your partner are working together to build a strong foundation based on mutual respect, communication, and shared goals. This card encourages you to continue collaborating, as your combined efforts will lead to long-term success. For singles, it indicates the potential for a relationship where both parties are willing to work together to create something meaningful."
+      },
+      "reversed":{
+        "keywords": "Lack of teamwork, miscommunication, unequal effort in love.",
+        "advice": "Address any lack of collaboration in your relationship and strive for better communication.",
+        "description": "The reversed Three of Pentacles may indicate miscommunication or a lack of collaboration in your relationship. One partner may be putting in more effort than the other, leading to frustration and imbalance. This card advises you to have an open conversation with your partner about the dynamics of the relationship and work together to restore harmony."
+      }
     }
   },
   {
@@ -410,6 +710,18 @@
       "keywords": "Greed, materialism, financial loss, lack of control, insecurity.",
       "advice": "Reflect on whether you are holding on too tightly to your resources. Consider letting go of fear and finding a healthier balance between security and flexibility.",
       "description": "The Four of Pentacles reversed suggests that you may be holding on too tightly to money or material possessions, leading to feelings of insecurity. You could be driven by fear of loss or financial instability, which could result in greed or materialism. Alternatively, it may indicate that you are loosening your grip and becoming more open to sharing your wealth. The card advises that now is a time to find balance—don't let the fear of losing control consume you."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Security, stability, possessiveness, control in love.",
+        "advice": "Ensure that your need for security doesn't turn into possessiveness or control in the relationship.",
+        "description": "The Four of Pentacles represents a desire for security and stability in love. While this can be positive, the card also warns against becoming too possessive or controlling in your relationship. It encourages you to strike a balance between maintaining stability and allowing room for freedom and growth. If single, it suggests that you may need to release any fears of vulnerability before opening up to love."
+      },
+      "reversed":{
+        "keywords": "Insecurity, greed, letting go of control in love.",
+        "advice": "Release the need for control in your relationship and trust in the bond you have built.",
+        "description": "The reversed Four of Pentacles may indicate insecurity or a fear of losing control in your love life. You or your partner may be holding on too tightly, creating a stifling dynamic. This card advises you to release control and trust that your relationship can thrive without constant oversight. Letting go will allow for a healthier and more open connection."
+      }
     }
   },
   {
@@ -425,6 +737,18 @@
       "keywords": "Recovery, improvement, renewed hope, financial stability.",
       "advice": "Your situation is improving, but take care to rebuild slowly and wisely. Don’t be afraid to ask for help along the way.",
       "description": "The Five of Pentacles reversed indicates that you are moving out of a period of hardship or financial difficulty. Recovery is in sight, and there is a renewed sense of hope for the future. You may have found support or resources to help you regain stability, or you’re beginning to see the light at the end of the tunnel. Now is the time to focus on rebuilding your finances or personal security, and take steady steps toward a better future."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Hardship, struggle, feeling abandoned, lack of support in love.",
+        "advice": "Seek support from your partner during difficult times, and offer it in return.",
+        "description": "The Five of Pentacles represents feelings of struggle, isolation, or hardship in love. You or your partner may be going through a tough time and feeling unsupported or disconnected. This card encourages you to lean on each other during difficult moments, recognizing that support is crucial in overcoming challenges. For singles, it may indicate a period of emotional or financial difficulty that is affecting your ability to connect with others."
+      },
+      "reversed":{
+        "keywords": "Recovery, hope, rebuilding connection in love.",
+        "advice": "Focus on rebuilding trust and support in your relationship to overcome past hardships.",
+        "description": "The reversed Five of Pentacles suggests that you are moving toward recovery and healing in your love life. If you've faced difficulties or disconnection, this card indicates that hope is on the horizon. It encourages you to rebuild trust and emotional support with your partner, working together to move beyond past challenges. For singles, it signifies a time of healing before opening up to new romantic possibilities."
+      }
     }
   },
   {
@@ -440,6 +764,18 @@
       "keywords": "Selfishness, stinginess, dependency, imbalance in giving.",
       "advice": "Consider if you are giving too much or too little. Ensure that you are not being taken advantage of or being overly possessive of your resources.",
       "description": "The Six of Pentacles reversed suggests an imbalance in giving and receiving. You might be either giving too much to others without receiving anything in return, or withholding generosity out of fear or selfishness. It can also indicate dependency—either you are relying too much on others, or someone else is relying too much on you. The card advises you to review your relationships and financial exchanges, ensuring that they are fair and balanced."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Generosity, balance, giving and receiving in love.",
+        "advice": "Strive for a balanced exchange of love, care, and support in your relationship.",
+        "description": "The Six of Pentacles represents balance in the exchange of love and support. It suggests that both you and your partner are giving and receiving in equal measure, creating a harmonious and nurturing dynamic. This card encourages generosity and mutual care in your relationship. If single, it indicates that being open and giving will attract the same energy from a potential partner."
+      },
+      "reversed":{
+        "keywords": "Imbalance, selfishness, one-sided effort in love.",
+        "advice": "Address any imbalance in your relationship to ensure that both partners are contributing equally.",
+        "description": "The reversed Six of Pentacles warns of an imbalance in your relationship, where one partner may be giving more than the other. This card advises you to have an honest conversation with your partner about the effort each of you is putting into the relationship. It’s important to ensure that both sides are contributing equally to maintain harmony."
+      }
     }
   },
   {
@@ -455,6 +791,18 @@
       "keywords": "Impatience, lack of progress, poor planning, frustration.",
       "advice": "Reevaluate your approach and make adjustments if needed. Avoid rushing the process, and ensure that your efforts are focused on the right goals.",
       "description": "The Seven of Pentacles reversed suggests frustration with slow progress or dissatisfaction with results. You may feel like your hard work is not yielding the outcomes you hoped for, leading to impatience or discouragement. It’s possible that poor planning or misaligned efforts are causing delays. This card advises you to reassess your strategies and ensure you’re investing time and energy into the right areas. Patience is still important, but if something isn’t working, it might be time to pivot or rethink your approach."
+    },
+    "love":{
+      "reversed":{
+        "keywords": "Patience, investment, long-term growth in love.",
+        "advice": "Be patient and continue investing in your relationship to see it grow and thrive.",
+        "description": "The Seven of Pentacles symbolizes long-term investment and growth in love. It suggests that you have been putting in effort and care into your relationship, and while results may not be immediate, your patience will pay off in the long run. This card encourages you to remain committed to nurturing your relationship, knowing that lasting love takes time to grow. If single, it indicates that patience is needed as you work towards attracting the right partner."
+      },
+      "uprigth":{
+        "keywords": "Frustration, impatience, lack of progress in love.",
+        "advice": "Frustration, impatience, lack of progress in love.",
+        "description": "The reversed Seven of Pentacles suggests feelings of frustration or impatience with the progress of your relationship. You may be questioning whether your efforts are worth it or if things are moving too slowly. This card advises you to avoid making hasty decisions or giving up prematurely. Relationships take time to develop, and patience is key to seeing the fruits of your labor."
+      }
     }
   },
   {
@@ -470,6 +818,18 @@
       "keywords": "Lack of focus, laziness, poor quality work, shortcuts, burnout.",
       "advice": "Take time to refocus your energy on what matters most. Avoid cutting corners or rushing your work, as it may compromise the quality of the results.",
       "description": "The Eight of Pentacles reversed suggests a lack of focus or commitment to your work. You might be feeling unmotivated or burned out, leading to poor quality or rushed efforts. This card is a warning against taking shortcuts or sacrificing attention to detail in the pursuit of quick results. Alternatively, it may indicate that you need to revisit your priorities and make sure you’re working on something that genuinely aligns with your goals. Take time to rest and reenergize if burnout is affecting your productivity."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Dedication, hard work, building a strong relationship.",
+        "advice": "Continue putting in the effort to nurture and strengthen your relationship.",
+        "description": "The Eight of Pentacles represents dedication and hard work in love. It suggests that you and your partner are actively working to build a strong and lasting relationship. This card encourages you to keep putting in the effort, as your commitment will lead to a fulfilling and stable connection. For singles, it indicates that focusing on personal growth and self-improvement will attract a meaningful relationship."
+      },
+      "reversed":{
+        "keywords": "Lack of effort, neglect, stagnation in love.",
+        "advice": "Address any lack of effort or neglect in your relationship to prevent stagnation.",
+        "description": "The reversed Eight of Pentacles warns of a lack of effort or neglect in your relationship. One or both partners may not be putting in the necessary work to maintain the connection, leading to stagnation. This card advises you to identify the areas where more attention is needed and to renew your commitment to the relationship."
+      }
     }
   },
   {
@@ -485,6 +845,18 @@
       "keywords": "Financial setbacks, dependence, overindulgence, superficial success.",
       "advice": "Reflect on whether you are truly enjoying the fruits of your labor or if your focus has shifted to materialism. Be cautious about financial risks.",
       "description": "The Nine of Pentacles reversed can indicate setbacks in financial matters or a loss of independence. You might be relying too heavily on others for support, or you may feel that your success is superficial, focused more on appearances than genuine fulfillment. It also warns against overindulgence—be careful not to spend recklessly or become too focused on luxury and material wealth. This card urges you to reevaluate your priorities and focus on what brings true, lasting satisfaction."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Independence, self-sufficiency, confidence, enjoying love.",
+        "advice": "Embrace your independence and confidence within your relationship or as a single individual.",
+        "description": "The Nine of Pentacles represents independence and self-sufficiency in love. If you're in a relationship, this card encourages you to maintain your sense of individuality and confidence while enjoying the stability and abundance you have built together. It signifies a healthy balance between being committed and valuing personal freedom. For singles, it highlights the importance of self-love and confidence before entering a relationship. You are in a place of self-reliance, and this will attract a partner who respects and appreciates your independence."
+      },
+      "reversed":{
+        "keywords": "Overdependence, lack of confidence, isolation in love.",
+        "advice": "Work on building your self-confidence and avoid becoming overly dependent on your partner.",
+        "description": "The reversed Nine of Pentacles warns of overdependence or a lack of self-confidence in love. You may be relying too much on your partner for emotional or financial support, leading to an imbalance in the relationship. This card advises you to focus on building your independence and self-worth to restore harmony. For singles, it may suggest feelings of isolation or insecurity, and it encourages you to work on self-love before pursuing a new relationship"
+      }
     }
   },
   {
@@ -500,6 +872,18 @@
       "keywords": "Financial loss, instability, family disputes, short-term focus.",
       "advice": "Be mindful of long-term financial planning, and avoid making decisions based on short-term gains. Address any family conflicts that could disrupt stability.",
       "description": "The Ten of Pentacles reversed suggests instability in financial or family matters. There could be issues with inheritance, family disputes, or the loss of wealth. It warns against focusing too much on short-term gains at the expense of long-term security. This card advises you to think carefully about the future and ensure that you are building a stable foundation. It may also indicate conflicts within the family that need resolution to restore harmony and security."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Long-term stability, commitment, family, legacy.",
+        "advice": "Focus on building a long-term, stable relationship that provides emotional and material security.",
+        "description": "The Ten of Pentacles represents long-term commitment, stability, and the creation of a lasting legacy in love. It signifies a relationship built on a strong foundation of trust, support, and shared values. You and your partner are working towards a secure future together, possibly including family, home, or financial stability. This card encourages you to focus on building a legacy of love and abundance that will stand the test of time. For singles, it indicates the potential for a long-term, committed relationship on the horizon."
+      },
+      "reversed":{
+        "keywords": "Instability, lack of commitment, family or financial strain.",
+        "advice": "Address any instability in your relationship and work towards rebuilding trust and security.",
+        "description": "The reversed Ten of Pentacles may indicate instability or a lack of long-term commitment in your relationship. Family or financial issues may be causing strain, leading to feelings of insecurity. This card advises you to work together with your partner to address these concerns and focus on rebuilding trust and stability. For singles, it may suggest that you are hesitant about long-term commitment, and it encourages you to reflect on your desires for the future."
+      }
     }
   },
   {
@@ -515,6 +899,18 @@
       "keywords": "Lack of focus, missed opportunities, immaturity, laziness.",
       "advice": "Avoid getting distracted or losing sight of your goals. Be careful not to waste opportunities due to lack of preparation or commitment.",
       "description": "The Page of Pentacles reversed indicates a lack of focus or ambition. You might be missing opportunities because of distractions or failing to take the necessary steps toward your goals. It can also suggest immaturity or laziness—perhaps you're not taking your responsibilities seriously enough, or you're relying too heavily on others to do the work. This card advises you to refocus your energy, make a plan, and commit to the effort needed for success. Avoid shortcuts, and take the time to build a solid foundation."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "New opportunities, curiosity, learning in love.",
+        "advice": "Stay open to learning and growing within your relationship, and approach love with curiosity.",
+        "description": "The Page of Pentacles represents new opportunities and the desire to learn and grow in love. This card suggests that you or your partner may be exploring new ways to strengthen your relationship, approaching it with curiosity and an open mind. It encourages you to remain focused on building a solid foundation while embracing the lessons that love has to offer. For singles, it signifies the potential for a new relationship that will provide opportunities for personal growth."
+      },
+      "reversed":{
+        "keywords": "Lack of focus, immaturity, missed opportunities in love.",
+        "advice": "Address any lack of focus or immaturity in your relationship to prevent missed opportunities for growth.",
+        "description": "The reversed Page of Pentacles warns of a lack of focus or immaturity in love. You or your partner may not be fully committed to the growth of the relationship, leading to missed opportunities. This card advises you to take a more grounded approach to love, focusing on the long-term potential rather than short-term distractions. For singles, it may suggest that you are not yet ready for a serious relationship, and it encourages you to work on personal growth before pursuing love."
+      }
     }
   },
   {
@@ -530,6 +926,18 @@
       "keywords": "Stubbornness, laziness, routine without progress, workaholism.",
       "advice": "Reevaluate your approach to ensure you're making meaningful progress. Avoid being overly stubborn or rigid in your methods.",
       "description" :"The Knight of Pentacles reversed suggests stagnation or a lack of progress despite consistent effort. You may feel stuck in a routine that isn’t leading to tangible results. This card warns against being too rigid in your approach—while discipline is important, flexibility and adaptability are also crucial for growth. Alternatively, the reversed Knight can indicate laziness or reluctance to take action, suggesting that you may need to get moving and focus on your goals. It can also warn of workaholism, where you’re overly focused on work to the detriment of other areas of your life."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Loyalty, patience, responsibility, steady progress in love.",
+        "advice": "Approach your relationship with patience, loyalty, and a focus on steady progress.",
+        "description": "The Knight of Pentacles represents loyalty, responsibility, and steady progress in love. This card suggests that you or your partner are committed to building a lasting relationship through patience and dedication. It encourages you to remain focused on the long-term, understanding that true love takes time to grow. For singles, it indicates that a loyal and dependable partner may be entering your life, bringing stability and commitment."
+      },
+      "reversed":{
+        "keywords": "Stubbornness, stagnation, lack of excitement in love.",
+        "advice": "Address any stagnation in your relationship and find ways to reignite passion and excitement.",
+        "description": "The reversed Knight of Pentacles warns of stubbornness or stagnation in your relationship. You or your partner may be too focused on routine, leading to a lack of excitement and growth. This card advises you to shake things up and find ways to bring passion and spontaneity back into your relationship. For singles, it may suggest that you are too set in your ways, preventing you from being open to new romantic opportunities."
+      }
     }
   },
   {
@@ -545,6 +953,18 @@
       "keywords": "Self-care neglect, financial instability, imbalance, overextension.",
       "advice": "Focus on taking care of yourself first, especially if you've been overextending your energy on others. Work on restoring balance in your life.",
       "description": "The Queen of Pentacles reversed can indicate a lack of balance between your personal and professional life. You might be neglecting self-care or feeling overwhelmed by your responsibilities. This card warns against spreading yourself too thin—whether in your career, finances, or home life—at the cost of your well-being. It’s important to restore balance and focus on self-care to maintain your stability. Financially, this card can indicate instability or mismanagement of resources, advising you to reassess your approach to managing money and creating security."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Nurturing, security, generosity, stability in love.",
+        "advice": "Focus on providing emotional and material security in your relationship, and nurture your connection.",
+        "description": "The Queen of Pentacles represents nurturing, stability, and generosity in love. She encourages you to provide a secure and supportive environment for your relationship to flourish. This card suggests that you or your partner are deeply caring and focused on creating a comfortable, abundant life together. It also highlights the importance of balancing love, family, and material concerns to maintain harmony. For singles, it indicates that you are in a nurturing and stable place, ready to attract a meaningful relationship."
+      },
+      "reversed":{
+        "keywords": "Overdependence, insecurity, neglect in love.",
+        "advice": "Address any insecurities or neglect in your relationship, and focus on nurturing yourself and your partner.",
+        "description": "The reversed Queen of Pentacles warns of overdependence or insecurity in love. You or your partner may be feeling neglected or lacking the emotional support needed for the relationship to thrive. This card advises you to address these issues by nurturing both yourself and your partner, focusing on creating a secure and supportive dynamic. For singles, it may suggest that you need to focus on self-care and building your confidence before seeking a relationship."
+      }
     }
   },
   {
@@ -560,6 +980,18 @@
       "keywords": "Greed, financial mismanagement, rigidity, materialism.",
       "advice": "Be cautious about becoming overly focused on wealth or material success. Reevaluate your priorities and avoid letting greed or rigidity control your decisions.",
       "description": "The King of Pentacles reversed warns of greed, materialism, or financial mismanagement. You may be too focused on wealth, leading to an imbalance in other areas of your life. This card suggests that your desire for success or control may be driving you to make decisions that are not in your best interest. It advises you to reevaluate your priorities and avoid becoming too rigid or obsessed with material outcomes. Financially, it can signal poor management of resources or the risk of instability due to irresponsible behavior."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Stability, loyalty, success, long-term commitment in love.",
+        "advice": "Embrace stability and loyalty in your relationship, and work towards long-term success.",
+        "description": "The King of Pentacles represents stability, loyalty, and success in love. This card suggests that you or your partner are deeply committed to building a secure and lasting relationship. The King of Pentacles values loyalty and long-term stability, encouraging you to focus on creating a strong foundation for your future together. For singles, it indicates the potential for a serious and successful relationship with someone who is grounded, reliable, and devoted."
+      },
+      "reversed":{
+        "keywords": "Materialism, stubbornness, control issues in love.",
+        "advice": "Avoid letting material concerns or control issues disrupt the emotional connection in your relationship.",
+        "description": "The reversed King of Pentacles warns of materialism or control issues in love. You or your partner may be overly focused on financial or external factors, neglecting the emotional aspect of the relationship. This card advises you to re-evaluate your priorities and focus on building a strong emotional connection. It also suggests addressing any stubbornness or controlling behavior that may be causing tension."
+      }
     }
   },
   {
@@ -575,6 +1007,18 @@
       "keywords": "Confusion, miscommunication, clouded judgment, dishonesty.",
       "advice": "Take a step back to reassess the situation. Be wary of unclear communication or clouded judgment.",
       "description": "The Ace of Swords reversed suggests confusion, miscommunication, or a lack of clarity. You may be struggling to find the truth in a situation, or your judgment may be clouded by emotions or external influences. This card advises you to pause and reflect before making any decisions, as your current perspective may be skewed. It also warns of dishonesty or the withholding of information, urging you to seek the truth and ensure that communication is clear and honest."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Clarity, truth, new perspective, communication.",
+        "advice": "Speak your truth and seek clarity in your relationship. Clear communication is key to resolving any issues.",
+        "description": " The Ace of Swords represents clarity and truth in relationships. It encourages open and honest communication, which can lead to breakthroughs and deeper understanding between partners. This card suggests that you are gaining a new perspective on your relationship, allowing you to cut through confusion and get to the heart of any issues. For singles, it can indicate a new beginning based on honesty and mutual understanding, or meeting someone with whom you can have clear and direct communication."
+      },
+      "reversed":{
+        "keywords":"Miscommunication, confusion, lack of clarity.",
+        "advice": "Avoid jumping to conclusions, and take time to clarify misunderstandings before they escalate.",
+        "description": "The reversed Ace of Swords warns of miscommunication or confusion in love. You or your partner may be struggling to express your thoughts and feelings clearly, leading to misunderstandings. This card advises you to slow down and focus on improving communication. For singles, it may indicate uncertainty or a lack of clarity about a potential partner’s intentions, and it encourages you to seek more information before moving forward."
+      }
     }
   },
   {
@@ -590,6 +1034,18 @@
       "keywords": "Indecision, confusion, emotional detachment, avoidance.",
       "advice": "Take time to gather more information before making a decision. Be careful not to let avoidance lead to stagnation.",
       "description": "The Two of Swords reversed indicates ongoing indecision or confusion. You may feel stuck because you don’t have all the information needed to make a choice, or you may be avoiding a difficult truth. This card advises you to seek clarity and make a decision rather than continuing to avoid the issue. Emotional detachment may be hindering your ability to see the situation clearly, so it’s important to address your feelings and communicate openly. Don’t let indecision paralyze you—taking even a small step forward can help break the stalemate."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Indecision, stalemate, emotional barriers, avoidance.",
+        "advice": "Face your emotional challenges head-on and make a decision, even if it’s difficult.",
+        "description": "The Two of Swords suggests indecision or avoidance in your love life. You or your partner may be at a stalemate, unable or unwilling to confront important emotional issues. This card represents a need to make a decision or take action, even if it feels uncomfortable. Avoiding the problem will only lead to further stagnation. For singles, it may indicate that you are unsure about how to move forward in a potential relationship, and it encourages you to take time to reflect and find clarity."
+      },
+      "reversed":{
+        "keywords": "Decision made, emotional release, no longer avoiding.",
+        "advice": "It’s time to release the emotional barriers and move forward with a decision, bringing clarity and resolution.",
+        "description": "The reversed Two of Swords suggests that you or your partner are ready to move beyond indecision and take action. You may have been avoiding a difficult conversation or emotional confrontation, but now you are prepared to face it. This card signifies the release of tension and the possibility of a fresh start. For singles, it can indicate that you are overcoming emotional barriers that have been preventing you from pursuing new love."
+      }
     }
   },
   {
@@ -605,6 +1061,18 @@
       "keywords": "Recovery, healing, releasing pain, forgiveness.",
       "advice": "Focus on healing and letting go of past hurts. Be open to forgiveness and emotional recovery.",
       "description": "The Three of Swords reversed signals the beginning of healing and recovery after a period of emotional pain or heartbreak. You may be starting to let go of the hurt and finding ways to forgive, either yourself or others. This card encourages you to release lingering bitterness or resentment and embrace the process of emotional healing. It’s a sign that you are ready to move forward, even if the pain is still fresh. With time and self-compassion, you can find peace and emotional renewal."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Heartbreak, betrayal, emotional pain, separation.",
+        "advice": "Allow yourself to feel and heal from emotional pain, and take time to recover before moving forward.",
+        "description": "The Three of Swords is a card of emotional pain, heartbreak, and betrayal in love. It suggests that you or your partner may be experiencing sorrow due to a breakup, argument, or unfaithfulness. This card acknowledges the deep hurt but also reminds you that healing is possible with time. For singles, it may indicate lingering emotional wounds from past relationships that need to be addressed before you can move forward in love."
+      },
+      "reversed":{
+        "keywords":"Healing, forgiveness, emotional recovery.",
+        "advice": "Focus on healing and forgiving, either yourself or others, and allow the past wounds to heal.",
+        "description": "The reversed Three of Swords signifies the beginning of emotional healing after a period of pain. You or your partner may be in the process of recovering from heartbreak, and this card encourages forgiveness and moving forward with a lighter heart. For singles, it suggests that you are finally letting go of past pain and are ready to open yourself up to new love."
+      }
     }
   },
   {
@@ -620,6 +1088,18 @@
       "keywords": "Restlessness, burnout, stress, avoidance of rest.",
       "advice": "Make time for rest and recovery, even if you feel too busy. Burnout is a risk if you ignore the need for self-care.",
       "description": "The Four of Swords reversed suggests that you may be pushing yourself too hard and are in danger of burnout. You might be feeling restless or stressed, unable to find the time to rest and recharge. This card advises you to prioritize your well-being, even if it means taking a break from your usual responsibilities. Avoidance of rest can lead to physical and emotional exhaustion, so it’s important to listen to your body and mind and allow yourself the space to heal. Recognize the need for recovery before it becomes a more serious issue."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Rest, recovery, contemplation, taking a break.",
+        "advice": "Take time to rest and reflect on your relationship. A period of introspection can lead to renewed clarity and understanding.",
+        "description": "The Four of Swords indicates a need for rest and contemplation in love. You or your partner may be going through a period of withdrawal to reflect on your relationship and personal needs. This card suggests that taking a step back from emotional intensity can provide the space needed to heal and recharge. For singles, it may indicate a time of solitude to reflect on past relationships and prepare for future ones."
+      },
+      "reversed":{
+        "keywords": "Burnout, stagnation, lack of rest.",
+        "advice": "Avoid pushing yourself or your relationship too hard without taking time to reflect and recharge.",
+        "description": "The reversed Four of Swords warns of burnout or stagnation in love. You or your partner may be pushing too hard without taking the time needed for introspection and rest. This card encourages you to slow down and allow yourself to recover before trying to solve relationship issues. For singles, it may suggest that you are feeling exhausted by the pursuit of love, and it’s time to take a break and focus on yourself."
+      }
     }
   },
   {
@@ -635,6 +1115,18 @@
       "keywords": "Reconciliation, resolution, compromise, forgiveness.",
       "advice": "Seek peace and reconciliation. It’s time to put conflict behind you and move forward with a spirit of compromise.",
       "description": "The Five of Swords reversed suggests a desire for reconciliation and resolution after a period of conflict. You may be ready to forgive and move forward, putting the tension and discord behind you. This card encourages healing, both in relationships and within yourself, allowing for a more peaceful resolution to past conflicts. It’s a sign that you’ve learned from the experience and are now prepared to compromise or make amends. The reversed Five of Swords emphasizes that it’s time to release any lingering resentment and focus on rebuilding trust and harmony."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Conflict, tension, winning at all costs, unfairness.",
+        "advice": "Be mindful of how you approach conflict in your relationship, and avoid using manipulative or hurtful tactics to 'win.'",
+        "description": "The Five of Swords represents conflict and tension in love. You or your partner may be engaging in power struggles or manipulative behavior to win an argument or get your way. This card warns that such tactics can lead to emotional harm and a breakdown of trust. It encourages you to approach disagreements with fairness and respect for each other’s feelings. For singles, it may indicate that unresolved conflicts from the past are affecting your ability to move forward in love."
+      },
+      "reversed":{
+        "keywords": "Resolution, peace, reconciliation.",
+        "advice": "Seek to resolve conflicts with compassion and forgiveness. Focus on reconciliation rather than winning.",
+        "description": "The reversed Five of Swords indicates that you or your partner are ready to move past conflicts and seek resolution. This card suggests that reconciliation is possible if both parties are willing to let go of ego and approach the situation with compassion. For singles, it may indicate that you are finally finding peace after a period of emotional tension or conflict, and you are ready to embrace love with a fresh perspective."
+      }
     }
   },
   {
@@ -650,6 +1142,18 @@
       "keywords": "Stagnation, difficulty moving on, unresolved issues, resistance to change.",
       "advice": "Let go of the past and allow healing to take place. Holding on to old wounds will only prolong the pain.",
       "description": "The Six of Swords reversed suggests difficulty moving on from past hardships. You may be clinging to old wounds or resisting the changes that are necessary for your growth. This card urges you to confront the unresolved issues that are holding you back and preventing you from finding peace. It’s a reminder that healing can only occur when you let go of the past and embrace the changes ahead. The reversed Six of Swords also indicates stagnation or being stuck in a difficult situation, and it encourages you to take steps toward finding resolution, even if it means facing uncomfortable truths."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Transition, moving on, healing, relief, recovery.",
+        "advice": "Embrace change and transition. Moving away from difficulties will lead to a more peaceful situation.",
+        "description": "The Six of Swords represents a transition from difficulty to peace. It often signifies a period of healing or recovery after hardship, and the card suggests that while the journey may not be easy, you are heading toward a better place. This card encourages you to leave behind past challenges and embrace the changes that are necessary for your growth and well-being. The Six of Swords can also represent physical or emotional travel, such as moving away from a toxic situation or taking time to heal from a loss. While the process of leaving may feel bittersweet, it is ultimately for the better."
+      },
+      "reversed":{
+        "keywords": "Stagnation, difficulty moving on, unresolved issues, resistance to change.",
+        "advice": "Let go of the past and allow healing to take place. Holding on to old wounds will only prolong the pain.",
+        "description": "The reversed Six of Swords suggests difficulty moving on from past hardships. You may be clinging to old wounds or resisting the changes that are necessary for your growth. This card urges you to confront the unresolved issues that are holding you back and preventing you from finding peace. It’s a reminder that healing can only occur when you let go of the past and embrace the changes ahead. The reversed Six of Swords also indicates stagnation or being stuck in a difficult situation, and it encourages you to take steps toward finding resolution, even if it means facing uncomfortable truths."
+      }
     }
   },
   {
@@ -665,6 +1169,18 @@
       "keywords": "Guilt, regret, coming clean, self-deception.",
       "advice": "It’s time to come clean or face the consequences of dishonesty. Acknowledge the truth, even if it’s difficult.",
       "description": "The Seven of Swords reversed suggests that deceit or betrayal may be coming to light. You may be feeling guilty or regretful about past actions, and this card encourages you to come clean and make amends. It also warns against self-deception or denial, advising you to face the truth of a situation rather than continuing to hide or avoid it. The reversed Seven of Swords can also indicate that someone in your life is being dishonest, and it encourages you to seek clarity and honesty in all your interactions. Now is the time for transparency and integrity."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Deception, betrayal, sneakiness, strategy.",
+        "advice": "Be cautious of deceit in your relationship. Trust your instincts and address any feelings of betrayal or dishonesty.",
+        "description": "The Seven of Swords is a card of deception and hidden actions. In love, it suggests that either you or your partner may be hiding something or acting in a less-than-honest way. This card warns of dishonesty, betrayal, or a lack of trust in the relationship. It encourages you to confront any suspicions or doubts directly, rather than allowing them to fester. For singles, it can indicate that someone new may not be entirely truthful, and you should approach new romantic interests with caution."
+      },
+      "reversed":{
+        "keywords": "Confession, honesty, coming clean.",
+        "advice": "It's time to confront the truth and clear up any misunderstandings or deceit. Be open and honest, even if it's uncomfortable.",
+        "description": "The reversed Seven of Swords indicates that deceit or dishonesty is being brought to light. Either you or your partner may be ready to confess or come clean about something that has been hidden. This card encourages honesty and transparency, even if the truth is painful. For singles, it suggests that you are ready to let go of deceptive behavior or dishonesty in your romantic pursuits, and you are seeking a more genuine connection."
+      }
     }
   },
   {
@@ -680,6 +1196,18 @@
       "keywords": "Liberation, empowerment, breaking free, overcoming fear.",
       "advice": "Take steps to free yourself from limiting beliefs or situations. You are stronger than you realize.",
       "description": "The Eight of Swords reversed signifies liberation and breaking free from self-imposed limitations. You may be realizing that the restrictions you felt were largely a result of your own fear or negative thinking, and now you are ready to take control and find your way out. This card encourages empowerment and a renewed sense of freedom, as you recognize your own strength and ability to overcome obstacles. It’s a sign that you are ready to let go of the fears or doubts that have been holding you back and take decisive action to move forward."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Restriction, feeling trapped, helplessness, confusion.",
+        "advice": "Don’t let fear or self-doubt hold you back in your relationship. Break free from limiting beliefs.",
+        "description": "The Eight of Swords represents feeling trapped or restricted in your love life. You or your partner may feel stuck in a situation that seems difficult to escape, but this card suggests that much of the restriction is self-imposed. It indicates that fear, insecurity, or self-doubt is preventing you from seeing a way out. This card encourages you to take a step back and realize that you have more power to change your situation than you think. For singles, it may indicate that limiting beliefs or fears of rejection are holding you back from pursuing new love."
+      },
+      "reversed":{
+        "keywords": "Liberation, empowerment, seeing a way forward.",
+        "advice": "Break free from mental limitations and allow yourself to explore new possibilities in love.",
+        "description": "The reversed Eight of Swords signifies that you are ready to break free from the limitations and restrictions that have been holding you back in love. You are gaining clarity and realizing that you have the power to change your circumstances. This card encourages you to let go of fear and take control of your love life. For singles, it suggests that you are overcoming fears and self-doubt, and are ready to open yourself up to new romantic opportunities."
+      }
     }
   },
   {
@@ -695,6 +1223,18 @@
       "keywords": "Relief, recovery, facing fears, overcoming anxiety.",
       "advice": "You are beginning to overcome your anxieties and fears. Stay focused on healing and release any lingering doubts.",
       "description": "The Nine of Swords reversed suggests that you are starting to overcome your fears and worries. After a period of intense anxiety or emotional turmoil, you are beginning to find relief and healing. This card encourages you to continue facing your fears and challenges, as the worst is now behind you. The reversal also indicates that you may have been able to put your anxieties into perspective, realizing that they were more a product of your mind than reality. This is a time of recovery, where you are releasing the burdens that have weighed on your heart and mind."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Anxiety, worry, sleepless nights, fear.",
+        "advice": "Address the underlying worries in your relationship. Don’t let fear and anxiety control your actions.",
+        "description": "The Nine of Swords represents deep anxiety and fear in love. You or your partner may be experiencing sleepless nights and overthinking the relationship, leading to emotional distress. This card suggests that there is a heavy emotional burden being carried, and it encourages you to confront these fears directly. Ignoring them will only lead to further anxiety. For singles, it may indicate that fears of rejection or past trauma are causing undue worry about finding love, and this is preventing you from moving forward."
+      },
+      "reversed":{
+        "keywords": "Release of fear, overcoming anxiety, mental clarity.",
+        "advice": "Let go of overwhelming worries and focus on healing. Relief is on the way.",
+        "description": "The reversed Nine of Swords indicates that you are beginning to overcome the fears and anxieties that have been plaguing your love life. You are gaining clarity and releasing the emotional burdens that have been weighing you down. This card encourages you to seek support, either from a partner or loved ones, to help you through this process. For singles, it suggests that you are finally letting go of past fears and are ready to embrace love with a clearer mind."
+      }
     }
   },
   {
@@ -710,6 +1250,18 @@
       "keywords": "Recovery, regeneration, healing from pain, survival.",
       "advice": "You are recovering from a challenging period. Focus on rebuilding and finding strength in your resilience.",
       "description": "The Ten of Swords reversed indicates that you are beginning to recover from a difficult situation. After a period of intense pain or emotional suffering, you are now moving towards healing and regeneration. This card suggests that you are starting to release the burdens and wounds of the past, finding a way to rebuild and move forward. The reversal also symbolizes survival, showing that despite the challenges you’ve faced, you have the strength to rise again. The worst is behind you, and it’s time to focus on healing and renewal."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Betrayal, painful ending, collapse, defeat.",
+        "advice": "Accept the painful end of a cycle in your relationship. It may be time to let go and move forward.",
+        "description": "The Ten of Swords signifies a painful and possibly final ending in love. You or your partner may be going through a period of betrayal, heartbreak, or collapse, and this card represents the emotional devastation that comes with it. It acknowledges the deep pain but also suggests that the worst is now over, and healing can begin. This card encourages you to accept that some relationships must end for new opportunities to arise. For singles, it may indicate the need to fully release past heartbreak before moving forward in love."
+      },
+      "reversed":{
+        "keywords": "Recovery, healing, survival, new beginnings.",
+        "advice": "Allow yourself to heal and rebuild after a painful experience. The worst is behind you, and a new chapter awaits.",
+        "description": "The reversed Ten of Swords suggests that you are in the process of recovering from a painful relationship or breakup. The emotional storm is passing, and you are beginning to heal and regain your strength. This card encourages you to focus on the future and the new possibilities that lie ahead. For singles, it suggests that you are ready to let go of past wounds and start fresh in love, with a greater sense of emotional resilience."
+      }
     }
   },
   {
@@ -725,6 +1277,18 @@
       "keywords": "Gossip, misinformation, defensiveness, scattered thoughts.",
       "advice": "Be careful of rumors or misinformation. Take the time to organize your thoughts and communicate with care.",
       "description": "The Page of Swords reversed warns of potential misunderstandings, gossip, or miscommunication. You may be feeling scattered or overwhelmed by information, making it difficult to focus or make decisions. This card advises you to take a step back and organize your thoughts before acting or speaking. Be mindful of how you communicate, as defensiveness or impulsiveness could lead to conflicts. Additionally, the reversal may suggest that someone around you is spreading misinformation or gossip, so it’s important to verify facts before jumping to conclusions."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Curiosity, communication, mental agility, new ideas.",
+        "advice": "Keep communication open and honest. Approach new love with curiosity and be willing to learn.",
+        "description": "The Page of Swords represents curiosity and communication in love. You or your partner may be eager to learn more about each other or explore new ideas within the relationship. This card suggests that mental agility and open communication are key to building a strong connection. For singles, it indicates that you may meet someone who stimulates your mind and encourages intellectual exploration in love."
+      },
+      "reversed":{
+        "keywords": "Gossip, defensiveness, miscommunication.",
+        "advice": "Avoid unnecessary arguments and misunderstandings. Stay calm and address issues with clarity and patience.",
+        "description": "The reversed Page of Swords warns of miscommunication or defensiveness in love. You or your partner may be quick to jump to conclusions, leading to unnecessary arguments. This card encourages you to slow down and approach conversations with patience and clarity. For singles, it suggests that you may encounter someone who is not being entirely truthful, or you may be prone to gossip or assumptions that create misunderstandings in love."
+      }
     }
   },
   {
@@ -740,6 +1304,18 @@
       "keywords": "Impulsiveness, impatience, recklessness, scattered energy.",
       "advice": "Slow down and think before acting. Impulsiveness may lead to mistakes or setbacks.",
       "description": "The Knight of Swords reversed warns against impulsiveness and reckless behavior. You may be feeling impatient or eager to take action, but this card advises caution. Rushing into a situation without proper planning or forethought could lead to mistakes or conflicts. The reversal also suggests that your energy may be scattered, making it difficult to stay focused on your goals. This card encourages you to slow down, think things through, and ensure that your actions are deliberate and well-considered."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Directness, action, determination, impatience.",
+        "advice": "Be direct and take action in your love life, but be mindful of rushing into decisions without considering the consequences.",
+        "description": "The Knight of Swords is a card of swift action and determination in love. You or your partner may be eager to move forward and make things happen, but this card warns against being too impulsive. While direct communication and decisiveness are important, it’s equally important to consider the impact of your actions on the relationship. For singles, this card suggests that someone may come into your life quickly and with great intensity, but you should ensure that things don’t move too fast without careful thought."
+      },
+      "reversed":{
+        "keywords": "Recklessness, impatience, lack of direction.",
+        "advice": "Avoid rushing into decisions or acting impulsively. Take time to reflect and plan before moving forward.",
+        "description": "The reversed Knight of Swords warns of recklessness and impatience in love. You or your partner may be acting impulsively or without considering the consequences, leading to confusion or conflict. This card encourages you to slow down and avoid making rash decisions that could harm the relationship. For singles, it suggests that you may be rushing into a romantic situation without fully understanding the other person’s intentions, and it’s important to take your time before committing."
+      }
     }
   },
   {
@@ -755,6 +1331,18 @@
       "keywords": "Coldness, bitterness, overly critical, emotional distance.",
       "advice": "Be mindful of becoming too detached or critical. While logic is important, don’t dismiss the emotional aspect of situations.",
       "description": " The Queen of Swords reversed warns against becoming overly cold or emotionally distant. While objectivity and logic are valuable, this card suggests that you may be neglecting your emotional side or shutting others out. The reversal also points to being overly critical, judgmental, or harsh in your approach. It encourages you to find balance—while it’s important to remain clear-headed, don’t lose sight of empathy and compassion. If you’ve been hurt in the past, the Queen of Swords reversed may also indicate the need to heal from bitterness or resentment"
+    },
+    "love":{
+      "uprigth": {
+        "keywords": "Independence, clear boundaries, intellect, honesty.",
+        "advice": "Be honest and direct in your communication. Maintain healthy boundaries while nurturing emotional connection.",
+        "description": "The Queen of Swords represents clarity, independence, and intellectual strength in love. You or your partner may be focused on maintaining healthy boundaries and valuing honesty above all. This card encourages you to approach your relationship with maturity, clear communication, and mutual respect. For singles, the Queen of Swords suggests that you may be seeking a partner who values intelligence and emotional independence, and you are not afraid to set clear expectations in your romantic life."
+      },
+      "reversed":{
+        "keywords": "Coldness, emotional detachment, harsh words.",
+        "advice": "Be mindful of being too harsh or emotionally distant. Reconnect with your softer side and show compassion.",
+        "description": "The reversed Queen of Swords warns of emotional detachment or coldness in love. You or your partner may be using logic as a defense mechanism, shutting down emotional connection in favor of intellectual distance. This card encourages you to soften your approach and allow yourself to be more vulnerable and compassionate. For singles, it suggests that you may be pushing people away with a harsh or overly critical attitude, and it’s time to open up emotionally to foster deeper connections."
+      }
     }
   },
   {
@@ -770,6 +1358,18 @@
       "keywords": "Manipulation, tyranny, misuse of power, dishonesty, ruthlessness.",
       "advice": "Be careful not to misuse your authority or manipulate situations. Maintain integrity, and avoid being overly harsh or controlling.",
       "description": "The King of Swords reversed warns of the misuse of power, manipulation, or a lack of integrity. You may be using your intellect or position of authority in a way that is unfair, dishonest, or overly controlling. The reversal suggests that you could be acting with ruthlessness or coldness, neglecting the impact of your actions on others. This card encourages you to reassess your approach, ensuring that you are acting ethically and fairly. If you are dealing with someone in a position of authority, the King of Swords reversed may also signify that they are using their power in a harmful or manipulative way."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Authority, clear thinking, truth, discipline.",
+        "advice": "Approach your relationship with clear communication and fairness. Balance logic with emotional understanding.",
+        "description": "The King of Swords represents authority, intellect, and fairness in love. You or your partner may take a logical, disciplined approach to the relationship, seeking to maintain clear communication and mutual respect. This card encourages you to lead with clarity and honesty, ensuring that decisions are made with fairness. For singles, the King of Swords suggests that you are looking for someone who is mature, intellectual, and values truth and integrity in relationships."
+      },
+      "reversed":{
+        "keywords": "Manipulation, cold authority, misuse of power.",
+        "advice": "Avoid using intellect or authority to control the relationship. Lead with empathy and mutual respect.",
+        "description": "The reversed King of Swords warns of manipulation or misuse of power in love. You or your partner may be using intellect or authority to control the relationship, leading to emotional distance or imbalance. This card encourages you to avoid being overly critical or controlling and to foster a relationship based on mutual understanding and compassion. For singles, it suggests that you may be encountering someone who uses their intellect or status to manipulate situations, and you should proceed with caution."
+      }
     }
   },
   {
@@ -785,6 +1385,18 @@
       "keywords": "Emotional blockage, suppressed feelings, loss of love, emptiness.",
       "advice": "Reflect on any emotional blockages or repressed feelings. Address them to heal and open yourself up to love again.",
       "description": "The Ace of Cups reversed suggests that you may be experiencing emotional blockages or difficulties in expressing your feelings. You could be holding back from fully engaging in a relationship, or there may be unresolved emotional pain that is preventing you from moving forward. This card encourages you to examine any emotional wounds or repressed feelings that need to be released. The reversal can also indicate a loss of emotional fulfillment, such as feeling disconnected from loved ones or lacking joy in your life. It’s a reminder to work on healing and reconnecting with your emotional self."
+    },
+    "love": {
+      "uprigth":{
+        "keywords": "New love, emotional fulfillment, joy, compassion.",
+        "advice": "Open your heart to new possibilities. Allow yourself to experience deep emotional connections.",
+        "description": "The Ace of Cups represents the start of a new emotional journey, often signaling new love or the deepening of an existing relationship. This card encourages you to open your heart fully, embrace vulnerability, and let love flow freely. It suggests emotional fulfillment, joy, and a sense of connection with a partner. For singles, the Ace of Cups indicates the potential for new romantic opportunities or an invitation to connect on a deeper level with someone special."
+      },
+      "reversed":{
+        "keywords": "Emotional blockage, withheld feelings, sadness.",
+        "advice": "Let go of emotional barriers and allow healing. Don't suppress your emotions.",
+        "description": "The reversed Ace of Cups signals emotional blockages or a reluctance to open up in love. You may be holding back your feelings, creating distance between you and your partner. This card encourages you to address any unresolved emotional issues and allow yourself to heal. For singles, it suggests that you may be closed off to new romantic opportunities, and it's time to confront any emotional baggage that is holding you back from love."
+      }
     }
   },
   {
@@ -800,6 +1412,18 @@
       "keywords": "Disconnection, imbalance, disharmony, conflict in relationships.",
       "advice": "Address any imbalances or conflicts in your relationships. Communication and compromise are essential to restoring harmony.",
       "description": "The Two of Cups reversed indicates disharmony or disconnection in a relationship. You may be experiencing conflict, misunderstandings, or a lack of emotional balance with someone important in your life. The reversal suggests that one person may be giving more than they are receiving, leading to feelings of frustration or resentment. This card encourages you to address any issues in the relationship through open communication and compromise. It may also indicate that a relationship is not meant to last, and you need to assess whether it’s worth continuing."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Partnership, harmony, attraction, mutual respect.",
+        "advice": "Nurture the balance and harmony in your relationship. Focus on mutual respect and shared values.",
+        "description": "The Two of Cups signifies a strong partnership based on mutual respect, love, and emotional balance. This card indicates a deep emotional connection with a partner where both parties are equally invested in the relationship. It often represents the beginning of a romantic partnership or the strengthening of an existing bond. For singles, the Two of Cups suggests that a harmonious, balanced relationship may be on the horizon, bringing with it mutual attraction and emotional fulfillment."
+      },
+      "reversed":{
+        "keywords": "Imbalance, disharmony, conflict.",
+        "advice": "Address any relationship issues directly. Work together to restore harmony and balance.",
+        "description": "The reversed Two of Cups warns of imbalance or disharmony in a relationship. There may be conflicts, miscommunication, or an unequal emotional investment from one partner. This card encourages you to address these issues openly and honestly, working together to restore balance and mutual respect. For singles, it suggests that a potential relationship may be off-balance, and it’s important to ensure that both parties are equally committed before moving forward."
+      }
     }
   },
   {
@@ -815,6 +1439,18 @@
       "keywords": "Overindulgence, isolation, lack of support, disharmony.",
       "advice": "Reflect on any feelings of isolation or disconnect. Reach out to friends or loved ones to rebuild emotional support.",
       "description": "The Three of Cups reversed suggests that you may be feeling isolated or disconnected from your social circle. You might be withdrawing from friends or lacking emotional support. This card advises you to reflect on whether you have been overindulging in social activities or neglecting deeper emotional connections. The reversal may also indicate conflicts or disharmony within a group of friends or loved ones, leading to feelings of loneliness or alienation. It’s important to address any misunderstandings and reconnect with those who support and care for you."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Celebration, friendship, joy, social connection.",
+        "advice": "Embrace the joy of love and friendship. Celebrate your relationship and the connections you’ve built.",
+        "description": "The Three of Cups represents celebration and joy within relationships. It suggests that love and happiness are shared not just between partners but also with friends and family. This card can symbolize engagement, marriage, or joyful gatherings that enhance your romantic connection. For singles, the Three of Cups indicates a time of social enjoyment, where you may meet someone special through friends or group activities."
+      },
+      "reversed":{
+        "keywords": "Isolation, third-party interference, disconnection.",
+        "advice": "Avoid gossip and outside interference. Focus on strengthening your relationship’s emotional bond.",
+        "description": "The reversed Three of Cups warns of possible third-party interference or emotional disconnection in a relationship. This could suggest a lack of support from friends or family or feeling isolated within the relationship itself. The card encourages you to be cautious of external influences and prioritize honest communication with your partner. For singles, it suggests avoiding relationships that may involve third parties or emotional complications."
+      }
     }
   },
   {
@@ -830,6 +1466,18 @@
       "keywords": "Awareness, acceptance, new opportunities, emotional reawakening.",
       "advice": "Open yourself up to new opportunities and emotional experiences. It’s time to let go of apathy and embrace what life has to offer.",
       "description": "The Four of Cups reversed suggests that you are beginning to move out of a period of emotional discontent or apathy. After a time of introspection or withdrawal, you are ready to embrace new opportunities and experiences. This card signifies an emotional reawakening, where you are more aware of the possibilities around you and are willing to take action. The reversal encourages you to let go of any feelings of stagnation or dissatisfaction and to focus on the positive aspects of your life. It’s a time to open your heart to new connections and emotional fulfillment."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Apathy, dissatisfaction, emotional reevaluation.",
+        "advice": "Take time to reflect on your emotional state. Don’t close yourself off to love out of fear or dissatisfaction.",
+        "description": "The Four of Cups represents emotional dissatisfaction or apathy in love. You or your partner may be feeling disconnected, bored, or unfulfilled in the relationship. This card encourages you to reflect on what you truly want in a relationship and to be open to new possibilities that may come your way. For singles, the Four of Cups suggests that you may be missing romantic opportunities because of emotional detachment or dissatisfaction with your current state of love."
+      },
+      "reversed":{
+        "keywords": "New interest, emotional breakthrough, awareness.",
+        "advice": "Be open to new emotional experiences and healing. Let go of past hurts to make room for new love.",
+        "description": "The reversed Four of Cups signifies a renewed interest in love and emotional connection. You may be ready to move past feelings of apathy or dissatisfaction and open yourself up to new emotional experiences. This card suggests a breakthrough in emotional awareness, where you are willing to embrace love and connection once again. For singles, it indicates that you are becoming more open to new romantic opportunities and ready to let go of emotional stagnation."
+      }
     }
   },
   {
@@ -845,6 +1493,18 @@
       "keywords": "Acceptance, moving on, healing, emotional recovery, optimism.",
       "advice": "You are ready to let go of past disappointments and embrace the healing process. It’s time to shift your focus toward the future.",
       "description": "The Five of Cups reversed indicates that you are in the process of emotional healing and recovery after a period of loss or regret. You may have finally come to terms with what has happened and are now ready to move forward with a renewed sense of hope. The reversal signifies that you are letting go of emotional baggage and starting to focus on rebuilding your life or relationships. It encourages optimism and the understanding that there is still something positive to be gained, even from difficult experiences."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Regret, loss, disappointment, grief.",
+        "advice": "Acknowledge the pain of loss but don’t dwell on it. Healing comes when you look toward the future.",
+        "description": "The Five of Cups represents grief, loss, and emotional disappointment. You or your partner may be mourning a past relationship or regretting actions that led to emotional pain. This card suggests that while it’s important to acknowledge the sadness, it’s equally essential to focus on the possibilities that remain. For singles, this card may indicate a sense of regret over past love experiences, but it encourages you to look forward to new emotional connections rather than staying stuck in the past."
+      },
+      "reversed":{
+        "keywords": "Acceptance, moving on, emotional healing.",
+        "advice": "Release the pain of past losses. Focus on healing and the opportunities that lie ahead.",
+        "description": "The reversed Five of Cups signals emotional recovery and the acceptance of past mistakes or heartbreak. You are beginning to let go of the emotional pain and disappointment, making way for healing and moving forward. In relationships, it indicates that you or your partner may be ready to forgive and release past hurt. For singles, it suggests that you are letting go of emotional baggage and are open to new relationships."
+      }
     }
   },
   {
@@ -860,6 +1520,18 @@
       "keywords": "Stuck in the past, difficulty moving on, unrealistic nostalgia, healing old wounds.",
       "advice": "Reflect on whether you are holding on too tightly to the past. It may be time to let go and focus on living in the present.",
       "description": "The Six of Cups reversed suggests that you may be overly focused on the past, and it’s preventing you from moving forward. You could be clinging to memories, idealizing a time that is no longer relevant, or feeling stuck in a place of nostalgia. The reversal encourages you to work on healing any emotional wounds related to your past and to let go of unrealistic expectations about reliving those moments. It’s time to release the hold that the past has on you and start creating new memories and experiences in the present."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Nostalgia, reunion, childhood memories, innocence.",
+        "advice": "Embrace the joy of reconnecting with the past but remain grounded in the present.",
+        "description": "The Six of Cups often represents nostalgia or the reemergence of past relationships. It can indicate a reunion with an old flame or a relationship that carries a sense of innocence and joy. This card brings emotional fulfillment by revisiting happy memories or rekindling past connections. For singles, it suggests that someone from your past may come back into your life, offering a chance to reconnect and possibly rekindle a romance."
+      },
+      "reversed":{
+        "keywords": "Letting go of the past, maturity, emotional growth.",
+        "advice": "Release attachments to past relationships that no longer serve you. Focus on emotional growth and the future.",
+        "description": "The reversed Six of Cups indicates a need to let go of past relationships or emotional experiences that may be holding you back. You may be clinging to an idealized version of the past, but this card encourages you to focus on personal growth and maturity. In a relationship, it suggests that unresolved issues from the past are affecting your current emotional well-being. For singles, it indicates that it’s time to move on from past loves and embrace new possibilities."
+      }
     }
   },
   {
@@ -875,6 +1547,18 @@
       "keywords": "Clarity, realism, narrowing down options, grounded decisions.",
       "advice": "You are beginning to see things more clearly and are ready to make grounded, realistic decisions. Trust your judgment.",
       "description": "The Seven of Cups reversed suggests that you are moving away from confusion and fantasy, gaining clarity on what is important to you. You may have been overwhelmed by too many choices or caught up in unrealistic expectations, but now you are ready to make decisions that are grounded in reality. The reversal indicates that you have a better understanding of what is achievable and are focusing on concrete goals. It’s a time to narrow down your options and take action on what truly matters."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Choices, fantasy, illusions, indecision.",
+        "advice": "Avoid being swept away by illusions or unrealistic expectations. Take time to evaluate your options clearly.",
+        "description": "The Seven of Cups represents emotional confusion or being overwhelmed by choices in love. You or your partner may be struggling to distinguish between fantasy and reality, leading to indecision or unrealistic expectations. This card encourages you to ground yourself in reality and carefully evaluate your emotional desires. For singles, the Seven of Cups indicates that you may have many romantic options but must be mindful of which ones are genuinely aligned with your true needs."
+      },
+      "reversed":{
+        "keywords": "Clarity, decisive action, grounding.",
+        "advice": "Focus on what is real and achievable in your love life. Ground yourself in reality before making choices.",
+        "description": "The reversed Seven of Cups brings clarity and the ability to make decisions based on reality rather than fantasy. You or your partner may be gaining a clearer understanding of your emotional needs and can now act decisively in the relationship. For singles, it suggests that you are beginning to see through illusions and are now ready to make grounded choices in love, avoiding unrealistic expectations."
+      }
     }
   },
   {
@@ -890,6 +1574,18 @@
       "keywords": "Fear of change, stagnation, inability to move on, clinging to the past.",
       "advice": "Reflect on what is holding you back from moving forward. You may need to confront your fears and embrace change.",
       "description": "The Eight of Cups reversed suggests that you may be struggling to let go of a situation that is no longer fulfilling, even though you know it’s time to move on. Fear of change or uncertainty about the future could be keeping you stuck in a place of emotional stagnation. The reversal encourages you to confront your fears and take the necessary steps to move forward. It’s a reminder that personal growth often requires leaving behind what is comfortable but no longer beneficial."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Walking away, emotional withdrawal, abandonment, seeking truth.",
+        "advice": "Trust your instincts if you feel the need to walk away from a situation that no longer fulfills you emotionally.",
+        "description": "The Eight of Cups signifies the need to leave behind something that no longer brings emotional fulfillment. Whether it's a relationship or emotional pattern, this card suggests that you or your partner may feel the need to seek something deeper and more meaningful. For singles, it may indicate that you are walking away from past emotional disappointments or leaving behind unfulfilling relationships in search of greater emotional satisfaction."
+      },
+      "reversed":{
+        "keywords": "Avoidance, fear of change, emotional stagnation.",
+        "advice": "Confront the issues you are avoiding. Don’t stay in a situation out of fear of the unknown.",
+        "description": "The reversed Eight of Cups suggests a fear of walking away from an unfulfilling relationship or emotional situation. You may feel stuck in a relationship out of fear of change or the unknown. This card encourages you to confront the emotional stagnation and take the necessary steps toward healing. For singles, it may indicate a reluctance to leave behind past emotional baggage, which is preventing you from finding new love."
+      }
     }
   },
   {
@@ -905,6 +1601,18 @@
       "keywords": "Discontent, greed, lack of fulfillment, superficial happiness.",
       "advice": "Reflect on whether your emotional needs are truly being met. Superficial gains may not bring lasting satisfaction.",
       "description": "The Nine of Cups reversed suggests that while you may have achieved external success or material wealth, you are still feeling emotionally unfulfilled. You could be chasing after superficial pleasures or focusing too much on personal gratification, neglecting deeper emotional needs. The reversal encourages you to reassess what truly brings you happiness and to seek emotional fulfillment that goes beyond surface-level desires. It’s a reminder that contentment comes from within, and external achievements alone may not provide lasting satisfaction."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Emotional satisfaction, contentment, joy, fulfillment.",
+        "advice": "Enjoy the emotional fulfillment that comes from love. Appreciate the joy in your relationship.",
+        "description": "The Nine of Cups is a card of emotional satisfaction and contentment. In a relationship, it signifies a period of joy and fulfillment where your emotional needs are being met. This card represents emotional harmony and the achievement of a deep connection with your partner. For singles, the Nine of Cups indicates a time of emotional independence and self-fulfillment, where you are content with yourself and open to love from a place of inner peace."
+      },
+      "reversed":{
+        "keywords": "Dissatisfaction, lack of emotional fulfillment, overindulgence.",
+        "advice": "Address the areas in your relationship where emotional fulfillment is lacking. Avoid seeking emotional satisfaction from unhealthy sources.",
+        "description": "The reversed Nine of Cups suggests a lack of emotional fulfillment or dissatisfaction in your relationship. You or your partner may feel that something is missing emotionally, even if everything seems perfect on the surface. This card encourages you to address any emotional gaps and avoid overindulgence or seeking fulfillment from unhealthy sources. For singles, it may indicate a temporary sense of emotional dissatisfaction, urging you to look within for fulfillment."
+      }
     }
   },
   {
@@ -920,6 +1628,18 @@
       "keywords": "Misaligned values, relationship strain, emotional disconnection, tension.",
       "advice": "Take time to reflect on any emotional discord in your relationships. Communication and understanding are needed to realign with those you care about.",
       "description": "The Ten of Cups reversed suggests that there may be emotional tension or discord within your relationships, particularly with family or close partners. This card indicates that while there is potential for happiness and harmony, there may be unresolved issues or misaligned values that are causing strain. The reversal encourages you to address these problems head-on, focusing on open communication and mutual understanding to rebuild emotional harmony. It’s a reminder that lasting happiness comes from nurturing relationships with care and attention."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Emotional harmony, family, happiness, long-term relationships.",
+        "advice": "Cherish the emotional harmony and joy in your relationships. Focus on long-term emotional fulfillment.",
+        "description": "The Ten of Cups represents emotional harmony and long-term happiness in relationships. This card often indicates a fulfilling family life or a deep, long-lasting connection with a partner. It symbolizes emotional completion and the joy that comes from shared love and happiness. For singles, the Ten of Cups suggests the potential for a future relationship that brings emotional fulfillment and a sense of lasting happiness."
+      },
+      "reversed": {
+        "keywords": "Family conflict, emotional disharmony, broken relationships.",
+        "advice": "Work on resolving emotional conflicts and focus on healing the relationship. Rebuild the emotional foundation.",
+        "description": "The reversed Ten of Cups warns of emotional disharmony or conflict within a family or relationship. There may be unresolved issues that are causing a breakdown in emotional connection. This card encourages you to address these issues and work on healing the relationship to restore emotional harmony. For singles, it suggests that emotional fulfillment may be delayed, and it’s essential to work on personal emotional healing before entering a new relationship."
+      }
     }
   },
   {
@@ -935,6 +1655,18 @@
       "keywords": "Emotional immaturity, insecurity, lack of creativity, blocked feelings.",
       "advice": "Take time to address any emotional insecurities or creative blockages. It may be necessary to grow emotionally or explore new ways to express yourself.",
       "description": "The Page of Cups reversed suggests emotional immaturity, insecurity, or difficulty expressing feelings. You may be struggling with emotional growth or feeling creatively blocked. This card encourages you to look within and work on developing your emotional intelligence, addressing insecurities that may be holding you back. It can also indicate that you are ignoring your intuition or suppressing creative impulses. The reversal is a reminder to reconnect with your emotional and imaginative side and allow yourself to grow in these areas."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "New love, emotional beginnings, romantic offers, sensitivity.",
+        "advice": "Be open to new romantic possibilities. Approach relationships with curiosity and emotional vulnerability.",
+        "description": "The Page of Cups represents a new emotional or romantic beginning, often symbolizing a message of love or an offer. It can indicate the start of a new relationship or a renewal of emotional connection in an existing one. The Page encourages you to approach love with a sense of wonder and openness. This is a time for exploring your feelings and letting your emotions guide you in relationships."
+      },
+      "reversed":{
+        "keywords": "Emotional immaturity, insecurity, avoidance of feelings.",
+        "advice": "Work on emotional growth before entering into relationships. Avoid letting insecurity cloud your judgment.",
+        "description": "In the reversed position, the Page of Cups suggests emotional immaturity or an unwillingness to confront feelings. It can indicate that you or your partner may not be ready for a deep emotional commitment. This card encourages reflection on emotional patterns and growth before moving forward in love."
+      }
     }
   },
   {
@@ -950,6 +1682,18 @@
       "keywords": "Unrealistic expectations, emotional impulsiveness, disappointment, moodiness.",
       "advice": "Be mindful of chasing unrealistic fantasies or acting impulsively based on fleeting emotions. Ground your dreams in reality.",
       "description": "The Knight of Cups reversed suggests emotional impulsiveness, disappointment, or mood swings. You may be chasing after unrealistic ideals or engaging in romantic or creative endeavors that lack a grounded approach. The reversal warns against acting too quickly based on emotions alone, as this could lead to disappointment or frustration. It’s important to find balance between your dreams and reality, and to avoid letting fleeting emotions dictate your actions. The reversed Knight of Cups encourages you to reassess your goals and ensure that they are attainable."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Romance, charm, emotional expression, pursuit of love.",
+        "advice": "Allow your romantic side to lead the way, but stay grounded in reality. Pursue love with sincerity.",
+        "description": "The Knight of Cups represents someone who is deeply in touch with their emotions and is eager to express love and affection. This card can indicate the arrival of a romantic partner who is charming and idealistic, or it may represent a phase in your own life where you are driven by emotional fulfillment and romantic aspirations. The Knight of Cups advises you to embrace love with an open heart but also to ensure your expectations are realistic."
+      },
+      "reversed":{
+        "keywords": "Emotional manipulation, unrealistic expectations, moodiness.",
+        "advice": "Be mindful of emotional games or manipulation in your relationships. Avoid putting partners on a pedestal.",
+        "description": "The reversed Knight of Cups warns of emotional instability or manipulation within relationships. It suggests that someone may be leading with their emotions in a way that is unhealthy, creating unrealistic expectations or becoming overly moody and unpredictable. It’s important to stay balanced and avoid romanticizing relationships to an unhealthy degree."
+      }
     }
   },
   {
@@ -965,6 +1709,18 @@
       "keywords": "Emotional overwhelm, codependency, over-sensitivity, neglecting self-care.",
       "advice": "Take time for self-care and establish emotional boundaries. Avoid becoming too involved in others' emotional issues at the expense of your own well-being.",
       "description": "The Queen of Cups reversed indicates emotional overwhelm, neglect of self-care, or difficulty establishing boundaries. You may be overly focused on others' emotional needs, to the point where you are neglecting your own well-being. The reversal encourages you to create healthy emotional boundaries and prioritize your self-care. It’s important to avoid becoming too involved in others' problems or taking on their emotional burdens. The reversed Queen of Cups is a reminder to balance empathy with self-care and to protect your emotional energy."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Emotional nurturing, compassion, intuitive understanding, emotional security",
+        "advice": "Trust your emotional intuition and nurture those you love. Create a safe emotional space in your relationship.",
+        "description": "The Queen of Cups embodies emotional security, compassion, and deep intuitive understanding. She encourages you to be empathetic and nurturing in your relationships. This card often suggests that you or your partner may need extra emotional support and care. It’s a reminder to create a safe, loving space where both you and your partner can be vulnerable and open. The Queen of Cups is a sign of emotional fulfillment and stability in love."
+      },
+      "reversed":{
+        "keywords": "Emotional overwhelm, co-dependency, suppressed feelings.",
+        "advice": "Set healthy emotional boundaries and avoid overextending yourself in relationships.",
+        "description": "When reversed, the Queen of Cups indicates emotional overwhelm or unhealthy emotional boundaries. It may suggest that you are giving too much of yourself in a relationship or neglecting your own emotional needs. There could be a tendency toward co-dependency or difficulty expressing feelings. This card advises you to focus on emotional balance and ensure that your needs are met, as well as those of your partner."
+      }
     }
   },
   {
@@ -980,6 +1736,18 @@
       "keywords": "Emotional manipulation, moodiness, volatility, suppressed emotions.",
       "advice": "Be cautious of emotional manipulation or suppressing your feelings. Seek healthy ways to express your emotions and regain balance.",
       "description": "The King of Cups reversed suggests emotional volatility, manipulation, or difficulty expressing emotions in a healthy way. You may be struggling to maintain emotional control, or you could be suppressing feelings that need to be addressed. The reversal warns against using emotions to manipulate others or acting out in a moody or unpredictable manner. It’s important to find balance and seek healthy outlets for emotional expression. The reversed King of Cups encourages you to reconnect with your emotional wisdom and avoid allowing negative emotions to dominate your actions."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Emotional maturity, calmness, compassion, balanced emotions.",
+        "advice": "Maintain emotional balance in relationships. Lead with compassion and understanding.",
+        "description": "The King of Cups represents emotional maturity and the ability to stay calm and compassionate in any situation. In love, he symbolizes a partner who is emotionally balanced and capable of providing deep, stable love. This card advises you to approach relationships with maturity, kindness, and empathy. It encourages you to be in control of your emotions while offering support and understanding to your partner."
+      },
+      "reversed":{
+        "keywords": "Emotional detachment, manipulation, repression of feelings.",
+        "advice": "Avoid emotional detachment or manipulation in your relationships. Express your feelings openly.",
+        "description": "In the reversed position, the King of Cups warns of emotional detachment or manipulation. You or your partner may be withholding emotions, creating distance or an imbalance in the relationship. It can also indicate emotional control being used in an unhealthy way. The card encourages you to be honest about your feelings and work toward emotional openness."
+      }
     }
   },
   {
@@ -995,6 +1763,18 @@
       "keywords": "Lack of direction, delays, missed opportunities, creative block.",
       "advice": "Reassess your goals and consider whether you need more clarity before taking action. Address any creative blocks holding you back.",
       "description": "The Ace of Wands reversed suggests a lack of direction or creative blocks. You may feel stuck, uninspired, or unsure of your next steps. This card indicates missed opportunities or delays in progress, often because of hesitation or uncertainty. It’s important to reconnect with your passions and find clarity in your goals. The reversal also warns against impulsiveness; take the time to plan and prepare before jumping into new ventures."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Passion, new beginnings, excitement, inspiration, sexual energy.",
+        "advice": "Take action and embrace the excitement of a new romantic chapter. Let your passion guide you.",
+        "description": "The Ace of Wands symbolizes a passionate and exciting new beginning in love. This card suggests that you may be entering a relationship filled with enthusiasm, energy, and desire. It also indicates the potential for sexual attraction and chemistry. If you’re in an existing relationship, the Ace of Wands can indicate a rekindling of passion and excitement. Embrace this surge of energy and be open to new possibilities in love."
+      },
+      "reversed":{
+        "keywords": "Lack of passion, hesitation, missed opportunities, emotional blockages.",
+        "advice": "Reignite the spark in your love life or take time to address emotional blockages. Avoid letting hesitation hold you back.",
+        "description": "In the reversed position, the Ace of Wands suggests a lack of passion or missed opportunities in love. You may feel hesitant to take a step forward, or the excitement in your relationship could be fading. This card encourages you to explore ways to reignite the spark or consider whether emotional blockages are preventing you from embracing love fully."
+      }
     }
   },
   {
@@ -1010,6 +1790,18 @@
       "keywords": "Indecision, fear of the unknown, restricted options, playing it safe.",
       "advice": "Overcome your fear of uncertainty and take decisive action. Avoid letting indecision hold you back from expanding your horizons.",
       "description": "The Two of Wands reversed suggests indecision, hesitation, or fear of the unknown. You may be avoiding making important decisions or taking action due to fear of the risks involved. This card warns against staying in your comfort zone for too long, as it can lead to stagnation. The reversal encourages you to confront your fears, take calculated risks, and trust that expanding your vision will lead to growth and opportunity."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Planning, partnership, future vision, decisions.",
+        "advice": "Look ahead and plan for the future of your relationship. Make decisions that align with your long-term goals.",
+        "description": "The Two of Wands indicates that you are at a crossroads in your romantic life. You may be making decisions about the future of your relationship or considering whether to move forward with a potential partner. This card suggests that now is a time for planning and setting long-term goals in love. It’s also a sign of evaluating the potential of a partnership and deciding whether it aligns with your vision of the future."
+      },
+      "reversed":{
+        "keywords": "Indecision, hesitation, fear of the future, lack of direction.",
+        "advice": "Make a decision and move forward confidently. Avoid letting fear of the unknown hold you back.",
+        "description": "The reversed Two of Wands suggests indecision or fear of moving forward in a relationship. You may feel uncertain about the future or hesitant to commit to a romantic partnership. This card encourages you to confront these fears and make a choice about what direction you want your love life to take. A lack of action could lead to stagnation."
+      }
     }
   },
   {
@@ -1025,6 +1817,18 @@
       "keywords": "Delays, lack of foresight, setbacks, frustration, limited progress.",
       "advice": "Address any delays or obstacles that are hindering your progress. Be open to re-evaluating your plans if necessary to ensure future success.",
       "description": "The Three of Wands reversed suggests delays, setbacks, or a lack of foresight in your plans. You may feel frustrated by a lack of progress or be facing obstacles that prevent you from moving forward. This card encourages you to re-evaluate your goals and consider whether you need to adjust your approach. The reversal also warns against tunnel vision—make sure you are considering all possibilities and not limiting your opportunities for success."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Expansion, growth, long-term planning, exploring new possibilities.",
+        "advice": "Be open to expanding your horizons in love. Long-term growth is on the horizon, so plan ahead.",
+        "description": "The Three of Wands represents expansion and growth in relationships. It suggests that you are looking beyond the immediate future and considering long-term possibilities with your partner. This card indicates that your relationship has the potential for lasting growth and fulfillment, but it may also require patience and planning. If you’re single, the Three of Wands suggests that love may come from unexpected places, and you should be open to new opportunities."
+      },
+      "reversed":{
+        "keywords": "Delays, frustration, lack of progress, missed opportunities.",
+        "advice": "Be patient and allow time for growth. Address any obstacles that are slowing down your romantic progress.",
+        "description": "The reversed Three of Wands indicates delays or frustration in your romantic life. You may feel that your relationship is not progressing as quickly as you’d like or that there are obstacles preventing growth. This card encourages patience and reminds you to stay focused on the bigger picture. Missed opportunities in love could also be a factor, so be aware of any chances you may have overlooked."
+      }
     }
   },
   {
@@ -1040,6 +1844,18 @@
       "keywords": "Disruption, instability, lack of support, conflict, delays.",
       "advice": "Address any disruptions or instability in your environment. Work to restore harmony and support within your relationships or community.",
       "description": "The Four of Wands reversed suggests disruption, instability, or conflict within your home or community. There may be issues that are preventing you from feeling secure or supported, and this card encourages you to address them. The reversal also indicates delays in celebrations or the completion of important milestones, leading to frustration or disappointment. It’s important to work through these challenges and focus on restoring balance and harmony in your life."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Celebration, harmony, stability, commitment, home.",
+        "advice": "Embrace harmony and stability in your relationship. Celebrate your achievements together and strengthen your bond.",
+        "description": "The Four of Wands is a card of celebration and harmony, often representing a strong and stable relationship. It can signify a time of commitment, such as engagement, marriage, or moving in together. This card encourages you to celebrate the love and joy you’ve created with your partner and to recognize the stability and security you’ve built together. It’s a card of happiness, suggesting that you are on solid ground in your romantic life."
+      },
+      "reversed":{
+        "keywords": "Instability, tension, lack of commitment, unresolved conflict.",
+        "advice": "Address any underlying issues in your relationship to restore harmony. Avoid ignoring tension or instability.",
+        "description": "When reversed, the Four of Wands indicates instability or unresolved conflict in a relationship. There may be tension beneath the surface that needs to be addressed in order to restore harmony. This card suggests that you or your partner may be avoiding commitment or facing challenges that are disrupting the stability of your connection. It’s important to confront these issues and work toward rebuilding security."
+      }
     }
   },
   {
@@ -1055,6 +1871,18 @@
       "keywords": "Avoidance of conflict, inner struggle, suppressed tension, passive resistance.",
       "advice": "Address underlying tensions instead of avoiding conflict. Open communication can help resolve issues before they escalate.",
       "description": "The Five of Wands reversed suggests avoidance of conflict or tension that is simmering beneath the surface. You may be trying to avoid confrontation or suppress your feelings, but this can lead to unresolved issues festering over time. The reversal encourages you to face conflicts directly, using open communication to resolve disagreements before they escalate. It’s important to address inner struggles or external tensions in a constructive way, rather than avoiding them altogether."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Conflict, competition, tension, disagreements.",
+        "advice": "Navigate conflicts with patience and understanding. Avoid unnecessary arguments and focus on resolution.",
+        "description": "The Five of Wands represents conflict and tension in relationships. This card suggests that you and your partner may be experiencing disagreements, competition, or external pressures that are causing friction. It’s important to approach these challenges with patience and a willingness to resolve issues rather than escalate them. If you’re single, this card can indicate competition for a romantic interest or internal conflict about pursuing a relationship."
+      },
+      "reversed":{
+        "keywords": "Resolution, compromise, avoiding conflict, harmony.",
+        "advice": "Seek resolution to ongoing conflicts and strive for compromise. Let go of unnecessary tension.",
+        "description": "In the reversed position, the Five of Wands suggests a desire to resolve conflicts and restore harmony in your relationship. You may be moving away from tension and working toward compromise. This card encourages you to focus on finding solutions rather than dwelling on disagreements. If conflict has been holding you back in love, now is the time to let go of it and move toward a more peaceful and understanding dynamic."
+      }
     }
   },
   {
@@ -1070,6 +1898,18 @@
       "keywords": "Lack of recognition, self-doubt, failure, setback, disappointment.",
       "advice": "Address any feelings of self-doubt or lack of recognition. Reflect on your efforts and seek ways to overcome setbacks and rebuild confidence.",
       "description": "The Six of Wands reversed suggests that you may be experiencing a lack of recognition or feeling overlooked despite your efforts. This card indicates disappointment, setbacks, or self-doubt that are preventing you from celebrating your successes. The reversal encourages you to reflect on your progress and consider whether external validation is influencing your self-worth. It’s important to rebuild your confidence and focus on your achievements, even if they are not yet being acknowledged by others."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Victory, success, recognition, achievement, confidence.",
+        "advice": "Enjoy the success in your relationship or personal growth. Celebrate victories and acknowledge the effort put in.",
+        "description": "The Six of Wands is a card of victory and recognition, symbolizing success in your romantic endeavors. Whether you're in a relationship or single, this card suggests that you are entering a period of confidence and achievement in love. If you’re in a relationship, you may feel appreciated, valued, and recognized for your efforts. If you’re single, this card can indicate that your confidence is attracting positive attention, and you may soon experience a romantic victory."
+      },
+      "reversed":{
+        "keywords": "Ego, lack of recognition, setbacks, pride, failure.",
+        "advice": "Avoid letting pride or ego interfere with your relationship. Focus on genuine connection rather than external validation.",
+        "description": "The reversed Six of Wands suggests a lack of recognition or a feeling that your efforts in love have gone unnoticed. You may be experiencing setbacks or disappointments in your romantic life. This card urges you to reflect on whether pride or ego is getting in the way of your relationship. Instead of seeking external validation, focus on the genuine emotional bond you share with your partner."
+      }
     }
   },
   {
@@ -1085,6 +1925,18 @@
       "keywords": "Overwhelm, giving up, feeling defeated, lack of defense.",
       "advice": "Reevaluate whether the struggle is worth continuing. Avoid giving up too soon, but also know when it’s time to walk away from a fight that no longer serves you.",
       "description": "The Seven of Wands reversed suggests feelings of overwhelm or defeat in the face of challenges. You may be finding it difficult to defend your position or feel like the odds are stacked against you. This card indicates that you might be tempted to give up or surrender to the opposition. However, it’s essential to assess whether the battle is worth continuing or if you are fighting for something that no longer aligns with your goals. The reversal encourages you to weigh your options carefully and decide whether to persist or let go."
+    },
+    "love":{
+      "uprigth": {
+        "keywords": "Defense, perseverance, standing your ground, challenge.",
+        "advice": "Stand up for your relationship or beliefs. Overcoming challenges will strengthen your connection.",
+        "description": "The Seven of Wands represents a period of challenge or defense in a relationship. You may feel the need to protect your relationship from external pressures or defend your choices in love. This card encourages you to stand firm and persevere through obstacles, as doing so will strengthen your bond. If you’re single, the Seven of Wands suggests that you may be facing competition or challenges in your romantic life, but you have the strength to overcome them."
+      },
+      "reversed":{
+        "keywords": "Weakness, giving up, feeling overwhelmed, lack of confidence.",
+        "advice": "Reassess your relationship or current situation. Don’t let fear or doubt cause you to give up prematurely.",
+        "description": "In the reversed position, the Seven of Wands suggests feeling overwhelmed or unsure of your ability to defend your relationship. You may be considering giving up due to challenges or pressure. This card encourages you to reflect on whether the struggle is worth continuing or if it’s time to let go. It’s also a reminder to rebuild your confidence and trust in your decisions, rather than being swayed by external influences."
+      }
     }
   },
   {
@@ -1100,6 +1952,18 @@
       "keywords": "Delays, frustration, miscommunication, lack of progress, stagnation.",
       "advice": "Address any obstacles or delays that are hindering your progress. Clear up misunderstandings and be patient while things align at their own pace.",
       "description": "The Eight of Wands reversed suggests delays, frustration, or a lack of forward movement. Despite your efforts, progress may be slower than expected, leading to impatience or miscommunication. This card encourages you to address any obstacles that are holding you back and to practice patience while things unfold. The reversal warns against trying to force progress or rushing through important details—sometimes, delays happen for a reason. Clear communication and a reassessment of your goals may help you overcome the current stagnation."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Fast progress, movement, communication, excitement, momentum.",
+        "advice": "Embrace the fast-paced energy in your relationship. Open lines of communication will lead to quick progress.",
+        "description": "The Eight of Wands indicates rapid progress and movement in your love life. If you’re in a relationship, this card suggests that things are moving quickly, and there is excitement and positive momentum in your connection. Open communication is key to maintaining harmony. If you’re single, the Eight of Wands indicates that new romantic opportunities may come suddenly, and you should be ready to embrace them. The energy of this card is fast and exciting, bringing about swift changes."
+      },
+      "reversed":{
+        "keywords": "Delays, miscommunication, stagnation, lack of progress.",
+        "advice": "Be patient during delays and avoid rushing decisions. Clarify any miscommunication in your relationship.",
+        "description": "In the reversed position, the Eight of Wands suggests delays or frustration in your love life. Progress may be slower than expected, or miscommunication may be creating tension in your relationship. This card advises patience and urges you to address any misunderstandings to get things back on track. Stagnation is temporary, so be mindful not to let it disrupt your connection."
+      }
     }
   },
   {
@@ -1115,6 +1979,18 @@
       "keywords": "Exhaustion, burnout, defensiveness, giving up, overwhelm.",
       "advice": "Take a step back and assess whether you need to rest before continuing. Avoid burnout by acknowledging your limits and knowing when to seek help.",
       "description": "The Nine of Wands reversed suggests exhaustion, burnout, or feeling overwhelmed by the challenges you’ve faced. You may be on the verge of giving up because of how drained you feel. This card encourages you to take a step back and consider whether you need rest or support before continuing your journey. It’s essential to acknowledge your limits and not push yourself to the point of total exhaustion. The reversal also warns against becoming overly defensive—while it’s important to protect yourself, you should remain open to help and support from others."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Resilience, persistence, caution, boundaries, guarding.",
+        "advice": "Protect your relationship, but don’t let past hurts cause you to be overly defensive. Trust the bond you’ve built.",
+        "description": "The Nine of Wands symbolizes resilience and the need to protect yourself or your relationship after enduring challenges. You may have been through difficult times in love, and this card indicates that you are wary or guarded as a result. It encourages you to be strong and persistent, but also to be mindful not to become overly defensive. If you’re single, the Nine of Wands suggests that past wounds may be influencing your approach to new relationships. Stay resilient, but be open to healing and trust."
+      },
+      "reversed":{
+        "keywords": "Paranoia, burnout, exhaustion, giving up, overprotection.",
+        "advice": "Let go of excessive defensiveness or fear in your relationship. Don’t allow past pain to block new opportunities for love.",
+        "description": "The reversed Nine of Wands suggests burnout or exhaustion in your love life. You may feel like giving up due to past struggles or ongoing challenges. This card urges you to evaluate whether you are being overly defensive or guarded, and whether your fears are preventing you from moving forward. It's important to find a balance between protecting yourself and allowing yourself to be vulnerable."
+      }
     }
   },
   {
@@ -1130,6 +2006,18 @@
       "keywords": "Release of burdens, delegation, overcommitment, stress relief.",
       "advice": "Let go of unnecessary burdens and allow others to share in your responsibilities. Prioritize your well-being and make space for self-care.",
       "description": "The Ten of Wands reversed suggests the need to release some of the burdens or responsibilities that have been weighing you down. You may have been overcommitting yourself, leading to stress and exhaustion. This card encourages you to let go of unnecessary tasks, delegate to others, and focus on relieving the pressure you’ve been feeling. The reversal is a call to prioritize your well-being and make room for self-care. It’s important to recognize that you don’t have to do everything on your own—asking for help can lighten the load and bring relief."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Burden, responsibility, stress, carrying the load, hard work.",
+        "advice": "Share the burdens of your relationship with your partner. Avoid taking on all the responsibilities alone.",
+        "description": "The Ten of Wands represents a heavy burden or feeling overwhelmed by responsibilities in a relationship. You or your partner may be shouldering too much weight, leading to stress or exhaustion. This card encourages you to share the load and communicate openly with your partner about the pressures you’re feeling. If you’re single, the Ten of Wands suggests that you may be weighed down by personal responsibilities or past emotional baggage, which is making it difficult to embrace love."
+      },
+      "reversed":{
+        "keywords": "Release, letting go, relief, delegating, reducing stress.",
+        "advice": "Let go of unnecessary burdens in your love life. Allow yourself to release past issues or responsibilities that aren’t yours to carry.",
+        "description": "The reversed Ten of Wands indicates a release of burdens or stress in your love life. You may be letting go of past responsibilities or emotional baggage that has been weighing you down. This card suggests that you are ready to reduce the pressure and find relief, either by delegating responsibilities or by walking away from a situation that is no longer serving you."
+      }
     }
   },
   {
@@ -1145,6 +2033,18 @@
       "keywords": "Lack of direction, procrastination, pessimism, inaction, creative block.",
       "advice": "Overcome any creative blocks by reconnecting with your passions. Avoid procrastination and find ways to reignite your enthusiasm for new opportunities.",
       "description": "The Page of Wands reversed suggests a lack of direction or enthusiasm. You may be feeling uninspired, unsure of your next steps, or stuck in procrastination. This card indicates that creative blocks or pessimism may be preventing you from pursuing new opportunities. The reversal encourages you to reconnect with your passions and find ways to reignite your sense of adventure. It’s important to overcome any hesitation or self-doubt and take action toward your goals, even if the path ahead is unclear."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Excitement, enthusiasm, new beginnings, curiosity, adventure.",
+        "advice": "Embrace the passion and excitement in your relationship. Approach love with an open heart and a sense of adventure.",
+        "description": "The Page of Wands brings a burst of enthusiasm and excitement to your love life. If you're in a relationship, this card suggests that a new, exciting phase is emerging, filled with curiosity and passion. The energy is playful and adventurous, encouraging you to explore new aspects of your connection. If you're single, the Page of Wands indicates that someone new may spark your interest, or that you're ready to approach love with a fresh, optimistic mindset."
+      },
+      "reversed":{
+        "keywords": "Impulsiveness, restlessness, boredom, lack of direction.",
+        "advice": "Avoid making hasty decisions in love. Take time to reflect on your desires and avoid rushing into a relationship without thought.",
+        "description": "In the reversed position, the Page of Wands suggests restlessness or impulsiveness in your love life. You may feel bored or uncertain about your current relationship, or you might be rushing into romantic situations without considering the consequences. This card advises you to take a step back and reflect on what you truly want before making any major decisions in love."
+      }
     }
   },
   {
@@ -1160,6 +2060,18 @@
       "keywords": "Recklessness, impatience, haste, lack of focus, scattered energy.",
       "advice": "Slow down and think carefully before acting. Avoid making impulsive decisions, and take time to ensure that your actions align with your long-term goals.",
       "description": "The Knight of Wands reversed suggests recklessness, impatience, or scattered energy. You may be rushing into things without proper planning or thought, leading to mistakes or setbacks. The reversed Knight of Wands indicates that your passion and enthusiasm may be getting the best of you, causing you to act impulsively. This card encourages you to slow down, refocus your energy, and approach your goals with a more balanced and thoughtful mindset. Take the time to plan your next steps and ensure that your actions are aligned with your long-term vision."
+    },
+    "love":{
+      "uprigth": {
+        "keywords": "Passion, adventure, pursuit, confidence, boldness.",
+        "advice": "Follow your passions in your relationship. Be bold, but ensure that you’re not acting recklessly or selfishly.",
+        "description": "The Knight of Wands is a card of passion and adventure in love. It suggests a bold and confident approach to romance, filled with excitement and a sense of pursuit. If you’re in a relationship, the Knight of Wands indicates that things may be heating up and moving quickly, with both partners embracing the adventure. If you’re single, this card suggests that someone passionate and energetic may be entering your life. The energy is intense, but be careful not to let the excitement lead to impulsive actions."
+      },
+      "reversed":{
+        "keywords": "Recklessness, haste, impatience, in-and-out energy.",
+        "advice": "Slow down and avoid rushing into relationships or making impulsive decisions. Reflect on the long-term consequences of your actions.",
+        "description": "The reversed Knight of Wands suggests recklessness or impatience in your love life. You may be acting impulsively, jumping into relationships without considering the long-term implications. This card warns against being too hasty or allowing your passion to override your judgment. It can also indicate someone in your life who comes and goes, bringing instability to your relationship."
+      }
     }
   },
   {
@@ -1175,6 +2087,18 @@
       "keywords": "Insecurity, self-doubt, introversion, lack of confidence, control issues.",
       "advice": "Overcome self-doubt by reconnecting with your strengths. Avoid being overly controlling and allow yourself to express your creativity more freely.",
       "description": "The Queen of Wands reversed suggests insecurity, self-doubt, or a lack of confidence. You may be feeling uncertain about your abilities or hesitant to take bold action. This card indicates that you may be holding yourself back from fully expressing your potential, possibly due to fear or external pressure. The reversal encourages you to reconnect with your inner strength and overcome self-doubt. It’s important to trust in your abilities and allow yourself to step into the spotlight. Avoid trying to control every situation and embrace a more relaxed and creative approach to your goals."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Confidence, independence, warmth, charisma, passion.",
+        "advice": "Bring warmth and confidence into your relationship. Lead with your heart, but maintain your independence and sense of self.",
+        "description": "The Queen of Wands represents confidence, independence, and warmth in love. If you’re in a relationship, this card suggests that you and your partner are bringing passion and charisma to your connection. The Queen of Wands encourages you to embrace your independence while being open and nurturing in love. If you're single, this card suggests that your confidence and magnetic energy are attracting others. You are in a place of personal power, ready to share your warmth and passion with the right person."
+      },
+      "reversed":{
+        "keywords": " Jealousy, controlling behavior, insecurity, lack of confidence.",
+        "advice": "Avoid allowing jealousy or insecurity to damage your relationship. Rebuild your confidence and trust in both yourself and your partner.",
+        "description": "The reversed Queen of Wands suggests jealousy or insecurity in a relationship. You may be struggling with feelings of inadequacy or fear, which could lead to controlling behavior or tension. This card advises you to rebuild your confidence and address any issues of insecurity that are affecting your connection. It’s important to maintain trust and independence, rather than letting negative emotions take over."
+      }
     }
   },
   {
@@ -1190,6 +2114,18 @@
       "keywords": "Arrogance, control, lack of direction, impulsiveness, overbearing behavior.",
       "advice": "Avoid being overly controlling or arrogant in your approach. Reevaluate your goals and find a more balanced and focused way to lead.",
       "description": "The King of Wands reversed suggests arrogance, impulsiveness, or a lack of clear direction. You may be overextending your authority or trying to control situations too forcefully, leading to conflict or frustration. The reversed King of Wands warns against being overly domineering or ignoring the input of others. This card encourages you to step back, reassess your goals, and approach leadership with more balance and humility. It’s important to find a clear vision and to lead with inspiration rather than force."
+    },
+    "love":{
+      "uprigth":{
+        "keywords": "Leadership, vision, passion, motivation, boldness.",
+        "advice": "Take charge of your love life with confidence and vision. Lead with passion, but be mindful of your partner’s needs and desires.",
+        "description": "The King of Wands represents leadership and confidence in love. If you're in a relationship, this card suggests that you or your partner are taking charge and leading with vision and passion. The King of Wands brings a sense of stability and strength, encouraging you to build a strong, lasting connection. If you're single, this card indicates that someone confident and charismatic may enter your life, bringing excitement and bold energy."
+      },
+      "reversed":{
+        "keywords": "Arrogance, overconfidence, domineering, impulsiveness.",
+        "advice": "Avoid being too controlling or arrogant in your relationship. Balance your leadership with respect for your partner’s independence.",
+        "description": "In the reversed position, the King of Wands suggests arrogance or domineering behavior in love. You may be acting impulsively or trying to control the relationship too much, which could lead to tension. This card urges you to strike a balance between leadership and collaboration, ensuring that your partner feels respected and valued."
+      }
     }
   }
 ]

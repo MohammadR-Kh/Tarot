@@ -31,6 +31,7 @@ const ThreeCard = () => {
     if (!card) return null;
   
     const meaning = isReversed ? card.reversed : card.uprigth;
+    const love = isReversed ? card.love.reversed : card.love.uprigth;
     const imageClass = isReversed ? 'card-image reversed' : 'card-image';
   
     return (
@@ -39,8 +40,13 @@ const ThreeCard = () => {
         <img className={imageClass} src={card.image} alt={card.name} />
         <h3>{card.name} {isReversed && '(Reversed)'}</h3>
         <p><strong>Keywords:</strong> {meaning.keywords}</p>
-        <p>{meaning.description}</p>
+        <p><strong>Description:</strong> {meaning.description}</p>
         <p><strong>Advice:</strong> {meaning.advice}</p>
+        <h3>Love & Relationship</h3>
+        <p><strong>Keywords:</strong> {love.keywords}</p>
+        <p><strong>Description:</strong> {love.description}</p>
+        <p><strong>Advice:</strong> {love.advice}</p>
+
       </div>
     );
   };
