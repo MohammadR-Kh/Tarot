@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return(
     <div className="navbar">
-      <Link to="/"></Link>
+      <Link to="/" className="nav-item">Tarot Reading</Link>
       <div className="nav-container">
 
         <div className="hamburger" onClick={toggleMenu}>
