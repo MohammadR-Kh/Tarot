@@ -1,0 +1,99 @@
+.soulmate-reading {
+  margin: 0px 100px;
+  padding-top: 50px;
+  text-align: center
+}
+.soulmate-head h1{
+  color: #E0E0E0;
+  font-size: 50px;
+  margin-bottom: 20px;
+  border-bottom: solid 2px #8B0000;
+}
+.soulmate-head h2{
+  color: #C0C0C0;
+  font-size: 30px;
+}
+.soulmate-cards-display{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, auto);
+  grid-gap: 20px;
+  justify-items: center;
+  margin-top: 50px;
+}
+.soulmate-cards-display .row-3 {
+  grid-column: 2 / span 1; 
+}
+.soulmate-display {
+  width: 350px;
+  text-align: center;
+  margin-top: 50px;
+  box-shadow: 0 0 10px 2px #8B0000;
+  background-color: #0D0D0D;
+}
+
+.soulmate-display img {
+  width: 330px;
+  transition: transform 0.5s;
+}
+
+.soulmate-display img.reversed {
+  transform: rotate(180deg);
+}
+.soulmate-display h2, .soulmate-display h3 {
+  color: #E0E0E0;
+  padding: 20px;
+}
+
+.soulmate-display p {
+  color: #C0C0C0;
+  padding: 20px;
+}
+.soulmate-display:nth-child(7) {
+  grid-column: 2;
+}
+.soulmate-show{
+  background-color: #8B0000;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.soulmate-show:hover {
+  background-color: #6D0000;
+  transition: 0.3s;
+}
+@media only screen and (max-width: 480px) {
+  .soulmate-reading {
+    margin: 0 10px;
+    padding-top: 20px;
+  }
+
+  .soulmate-head h1 {
+    font-size: 20px;
+  }
+
+  .soulmate-head h2 {
+    font-size: 15px;
+  }
+
+  .soulmate-cards-display {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 20px;
+    justify-items: center;
+  }
+
+  .soulmate-display:nth-child(7) {
+    grid-column: unset;
+  }
+
+  .soulmate-display {
+    width: 100%; 
+    max-width: 350px;
+  }
+}
