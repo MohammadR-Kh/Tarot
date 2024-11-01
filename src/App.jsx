@@ -6,6 +6,7 @@ import ThreeCard from './pages/three-card/three-card';
 import CelticCross from './pages/celtic-cross/celtic-cross';
 import YesOrNo from './pages/yesorno/yesorno';
 import Soulmate from './pages/soulmate/soulmate';
+import CareerPath from './pages/career-path/career-path';
 
 function App() {
 
@@ -20,6 +21,7 @@ function App() {
             <Route path='celtic-cross' element={<CelticCross />} />
             <Route path='yesorno' element={<YesOrNo />} />
             <Route path='soulmate' element={<Soulmate />} />
+            <Route path='career-path' element={<CareerPath />} />
           </Route>
         </Routes>
       </BrowserRouter>

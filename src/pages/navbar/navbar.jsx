@@ -26,6 +26,7 @@ const Navbar = () => {
           <Link to="/celtic-cross" className="nav-item">Celtic Cross</Link>
           <Link to="/yesorno" className="nav-item">Yes/No</Link>
           <Link to="/soulmate" className="nav-item">Soulmate</Link>
+          <Link to="/career-path" className="nav-item">Career-Path</Link>
         </div>
       </div>
     </div>
